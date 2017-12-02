@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Tongzhou's Site"
+title                    : "" # "Tongzhou's Site"
 title_separator          : "-"
 name                     : "Tongzhou Wang"
 description              : "Tongzhou Wang's personal website."
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Tongzhou Wang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI researcher. Engineer at Facebook AI research."
+  bio              : "AI researcher. Engineer at Facebook AI research (FAIR)."
   location         : "New York, NY"
   email            :
   uri              :
