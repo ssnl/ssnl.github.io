@@ -96,6 +96,10 @@
     font-family: Monaco,Consolas, "Lucida Console", monospace;
   }
 
+  .colorful {
+    color: $link-color;
+  }
+
   a:not(.btn) {
 
     &:hover {

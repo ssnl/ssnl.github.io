@@ -4,7 +4,7 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
 ## Publications
 
-1. **Neural Block Sampling** [<span class="small__tt">submitted to AISTATS 2018</span>] [[arXiv](https://arxiv.org/abs/1708.06040){:.small__tt}]
+1. **Neural Block Sampling**<br />[<span class="small__tt">submitted to **AISTATS 2018**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}]
 
     Tongzhou Wang, Yi Wu, David Moore, Stuart Russell
 
@@ -14,7 +14,7 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
     ![neural-block-sampling-trace](/assets/images/neural_block_sampling_trace.png){: style="max-height:12em;width:auto;"}
 
-2. **Learning to Synthesize a 4D RGBD Light Field from a Single Image** [<span class="small__tt">ICCV 2017</span>] [[arXiv](https://arxiv.org/abs/1708.03292){:.small__tt}]
+2. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}]
 
     Pratul Srinivasan, Tongzhou Wang, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
 
