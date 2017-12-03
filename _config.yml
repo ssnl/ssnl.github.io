@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "" # "Tongzhou's Site"
+title                    : "Tongzhou's Site"
 title_separator          : "-"
 name                     : "Tongzhou Wang"
 description              : "Tongzhou Wang's personal website."
@@ -83,11 +83,11 @@ analytics:
 # Site Author
 author:
   name             : "Tongzhou Wang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI researcher. Engineer at Facebook AI research (FAIR)."
   location         : "New York, NY"
   email            :
-  uri              :
+  uri              : # "http://ssnl.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -244,9 +244,23 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archive
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: archive
+      author_profile: true
+  # home
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: archive
+      author_profile: true
