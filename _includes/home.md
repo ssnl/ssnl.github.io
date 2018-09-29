@@ -4,7 +4,8 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
 ## Publications
 
-1. **Neural Block Sampling**<br />[<span class="small__tt">submitted to **AISTATS 2018**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}]
+1. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NIPS 2019**{: .colorful}</span>]
+<!-- [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] -->
 
     Tongzhou Wang, Yi Wu, David Moore, Stuart Russell
 
@@ -41,4 +42,3 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
     Course project of graduate-level statistical learning theory class.
 
     ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"}
-
