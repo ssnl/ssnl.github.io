@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Tongzhou Wang"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI researcher. Engineer at Facebook AI research (FAIR)."
-  location         : "New York, NY"
+  bio              : "MIT CSAIL"
+  location         : "Cambridge, MA"
   email            :
   uri              : # "http://ssnl.github.io"
   bitbucket        :
