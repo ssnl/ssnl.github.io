@@ -45,7 +45,7 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
     Relevant vision course project: **CycleGAN with Better Cycles**{: style="font-size: 0.95em"} [[paper](/better_cycles/report.pdf){: .small__tt}, [slides](/better_cycles/slides.pdf){: .small__tt}].
 
-2. **Analysis on Punctuations in Online Reviews** [[paper](/punctuations/report.pdf){: .small__tt}, [poster](/punctuations/poster.pdf){: .small__tt}]
+<!-- 2. **Analysis on Punctuations in Online Reviews** [[paper](/punctuations/report.pdf){: .small__tt}, [poster](/punctuations/poster.pdf){: .small__tt}]
 
     Tongzhou Wang
 
@@ -54,4 +54,4 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
     Course project of graduate-level statistical learning theory class.
 
-    ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"}
+    ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"} -->
