@@ -5,7 +5,7 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
 ## Publications
 
-1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[[Project Page](/hypersphere){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}]
+1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}]
 
     Tongzhou Wang, Phillip Isola
 
