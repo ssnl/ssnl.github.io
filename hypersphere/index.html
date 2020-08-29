@@ -182,7 +182,7 @@ BODY {
 <div id="primarycontent">
 <center><h1 style="font-size: 225%">Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere</h1></center>
 <center>
-  <div class="table-like" style="justify-content:space-evenly;max-width:900px;margin:auto;">
+  <div class="table-like" style="justify-content:space-evenly;max-width:880px;margin:auto;">
     <div width="1"></div>
     <div>
       <center>
@@ -207,14 +207,28 @@ BODY {
 <br>
 
 <div class="table-like" style="justify-content:space-evenly;max-width:900px;margin:auto;">
-  <div width="15"></div>
-  <span>
-    <center>
-      <span style="font-size:26px;margin:10px"><a href="https://arxiv.org/abs/2005.10242">[arXiv Paper]</a></span>
-      <span style="font-size:26px;margin:10px"><a href="https://github.com/SsnL/align_uniform">[GitHub Code]</a></span>
-    </center>
-  </span>
-  <div width="15"></div>
+  <center>
+    <table>
+      <tr>
+        <td>
+          <span style="font-size:26px;margin:20px">Paper:</span>
+        </td>
+        <td style="font-size:20px;margin:20px;font-family:monospace">
+          <a style="margin:2px" href="https://arxiv.org/abs/2005.10242">[arXiv]</a>
+          <a style="margin:2px" href="https://proceedings.icml.cc/paper/2020/hash/4b85256c4881edb6c0776df5d81f6236">[ICML 2020]</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span style="font-size:26px;margin:20px">Code:</span>
+        </td>
+        <td style="font-size:20px;margin:20px;font-family:monospace">
+          <a style="margin:2px" href="https://github.com/SsnL/align_uniform">[General]</a>
+          <a style="margin:2px" href="https://github.com/SsnL/moco_align_uniform">[ImageNet with MoCo Variant]</a>
+        </td>
+      </tr>
+    </table>
+  </center>
 </div>
 <center>
 <br>
@@ -249,7 +263,7 @@ Extensive experiments on standard vision and language datasets confirm the stron
 <br>
 <br>
 
-<h3 style="text-align: left;font-size: large;padding-left: 20px; padding-bottom: 0px">Theoretical insight:</h3>
+<h3 style="text-align: left;font-size: 22px;padding-left: 20px; padding-bottom: 0px">Theoretical insight:</h3>
 <div style="text-align: justify;"><p style="font-size:18px;">
 In the limit of infinite negative samples, the popular contrastive loss decomposes into two terms, optimizing for <em class="ul">alignment</em> and <em class="ul">uniformity</em> respectively.
 </p></div>
@@ -286,7 +300,7 @@ In the limit of infinite negative samples, the popular contrastive loss decompos
   <ul>
     <li>Encoders are evaluated on <scan class="ul">Alignment</scan> (<em>y</em>-axis), <scan class="ul">Uniformity</scan> (<em>x</em>-axis), and <scan class="ul">downstream task performance</scan> (color). </li>
     <li><scan style="font-weight:bold;">Blue</scan> is better for all tasks.</li>
-    <li>Aligned and Uniform encoders (lower left corners) consistenly perform better.</li>
+    <li>Aligned and Uniform encoders (lower left corners) consistently perform better.</li>
   </ul>
 </div>
 
@@ -346,7 +360,11 @@ In the limit of infinite negative samples, the popular contrastive loss decompos
         <h2>Citation</h2>
         <p>Tongzhou Wang, Phillip Isola. "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere" <em>International Conference on Machine Learning</em>. 2020.
         </p>
-        <h2>Code: <a href='https://github.com/SsnL/align_uniform' style="font-weight: normal">GitHub</a></h2>
+        <h2>Code:
+          <span style="font-family:monospace;font-size:23px;margin:5px;position:relative;bottom:2px">
+            <a style="font-weight:normal;" href="https://github.com/SsnL/align_uniform">[General]</a>
+            <a style="font-weight:normal;" href="https://github.com/SsnL/moco_align_uniform">[ImageNet with MoCo Variant]</a>
+          </span>
         <br>
       </span>
     </td>
@@ -368,6 +386,6 @@ In the limit of infinite negative samples, the popular contrastive loss decompos
 
 
 <br>
-<h2>Acknowledgement</h2>
-<p style="font-size:14px; text-align: justify; padding-bottom: 15px">We thank Ching-Yao Chuang, Justin Solomon, Yonglong Tian, and Zhenyang Zhang for many helpful comments and suggestions. Tongzhou Wang was supported by the MIT EECS Merrill Lynch Graduate Fellowship.</p>
+<h2>Acknowledgements</h2>
+<p style="font-size:14px; text-align: justify; padding-bottom: 15px">We thank Philip Bachman, Ching-Yao Chuang, Justin Solomon, Yonglong Tian, and Zhenyang Zhang for many helpful comments and suggestions. Tongzhou Wang was supported by the MIT EECS Merrill Lynch Graduate Fellowship.</p>
 </body></html>
