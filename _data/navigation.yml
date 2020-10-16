@@ -10,7 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Résumé"
-    url: /assets/docs/about/resume.pdf
+  - title: "CV"
+    url: /assets/docs/about/cv.pdf
   - title: "Blog"
     url: /blog/

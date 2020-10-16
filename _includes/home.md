@@ -1,9 +1,11 @@
-I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I worked at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) on [PyTorch](https://pytorch.org/). Before joining Facebook, I studied computer science and statistics at University of California, Berkeley. Since my undergraduate study, I have worked with Professor [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/), Professor [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and Professor [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/) as a researcher at [Berkeley AI Research (BAIR)](http://bair.berkeley.edu/).
+I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I worked at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) on [PyTorch](https://pytorch.org/), and studied computer science and statistics at University of California, Berkeley, where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/){:.color} at [Berkeley AI Research (BAIR)](http://bair.berkeley.edu/).
 {: style="text-align: justify;"}
 
-Please find my full résumé [here](/assets/docs/about/resume.pdf).
+I aim to understand when and why machine learning models work well/badly, and build better and more generalizable AI systems. Towards this goal, questions I think about are often related to generalization, distribution shift, quantifying complexity, learning dynamics, etc. My current areas of focus include representation learning, reinforcement learning, and generative modeling.  
 
-## Publications
+Please find my CV [here](/assets/docs/about/cv.pdf).
+
+## Selected Publications
 
 1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}]
 
@@ -67,18 +69,18 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
     ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="max-height:12.5em;width:auto;"}
 
-## Research Projects
+## Selected Projects
 
 1. **Improved Training of Cycle-Consistent Adversarial Networks**
 
-    Tongzhou Wang with research group of Prof. Alexei A. Efros
+    Tongzhou Wang and Yihan Lin with research group of Prof. Alexei A. Efros
 
-    On-going project on improving CycleGAN by designing better formulation and/or automatic dataset selection algorithms.
+    Improving CycleGAN by designing better formulation and/or automatic dataset selection algorithms.
     {: style="text-align: justify;"}
 
     Relevant vision course project: **CycleGAN with Better Cycles**{: style="font-size: 0.95em"} [[paper](/better_cycles/report.pdf){: .small__tt}, [slides](/better_cycles/slides.pdf){: .small__tt}].
 
-<!-- 2. **Analysis on Punctuations in Online Reviews** [[paper](/punctuations/report.pdf){: .small__tt}, [poster](/punctuations/poster.pdf){: .small__tt}]
+2. **Modeling Punctuations in Online Reviews** [[paper](/punctuations/report.pdf){: .small__tt}, [poster](/punctuations/poster.pdf){: .small__tt}]
 
     Tongzhou Wang
 
@@ -87,4 +89,4 @@ Please find my full résumé [here](/assets/docs/about/resume.pdf).
 
     Course project of graduate-level statistical learning theory class.
 
-    ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"} -->
+    ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"}
