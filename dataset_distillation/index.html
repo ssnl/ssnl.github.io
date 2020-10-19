@@ -35,8 +35,11 @@ IMG {
 	MARGIN-LEFT: auto; ; WIDTH: expression(document.body.clientWidth >
 1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width:
 1000px }
-BODY {
+.primarycontent {
 	TEXT-ALIGN: center
+}
+BODY {
+  margin: 0px
 }
 </style>
 
@@ -69,8 +72,8 @@ BODY {
   </div>
   </center>
 
- <p>
-<h2>Abstract</h2>
+ <!-- <p> -->
+<h2 style="margin-bottom: 5px">Abstract</h2>
 
 <div style="font-size:14px; text-align: justify;"><p>
   Model distillation aims to distill the knowledge of a complex model into a simpler one.  In this paper, we consider an alternative formulation called <em class="ul">dataset distillation</em>: we keep the model fixed and instead attempt to distill the knowledge from a large training dataset into a small one.  The idea is to <em>synthesize</em> a small number of data points that do not need to come from the correct data distribution, but will, when given to the learning algorithm as training data, approximate the model trained on the original data.  For example, we show that it is possible to compress 60,000 MNIST training images into just 10 synthetic <em class="ul">distilled images</em> (one per class) and achieve close to original performance with only a few steps of gradient descent, given a fixed network initialization. We evaluate our method in various initialization settings and with different learning objectives. Experiments on multiple datasets show the advantage of our approach compared to alternative methods.
@@ -220,11 +223,55 @@ BODY {
 </li>
 </ul>
 
-
-
 <br>
 <h2>Acknowledgement</h2>
 <p style="font-size:14px; text-align: justify; padding-bottom: 15px">This work was supported in part by NSF 1524817 on Advancing Visual Recognition with Feature Visualizations, NSF IIS-1633310, and Berkeley Deep Drive.</p>
+
+</div>
+
+<style type="text/css" media="all">
+.page__footer {
+  /*float: left;*/
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
+  /* sticky footer fix start */
+  /*position: absolute;*/
+  bottom: 0;
+  height: auto;
+  /* sticky footer fix end */
+  margin-top: 3em;
+  color: #898c8f;
+  background-color: #f2f3f3;
+  padding-left: 0em;
+  padding-right: 0em;
+  max-width: 100%;
+}
+
+.page__footer .links {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  /*padding: 0;*/
+}
+
+.page__footer .links .social-icons {
+  padding-left: 0;
+  text-align: left;
+}
+</style>
+
+<div class="page__footer">
+  <div class="links">
+    <ul class="social-icons">
+      <li style='display: inline-block; margin-right: 5px; font-style: bold'><strong>Links:</strong></li>
+      <li style='display: inline-block; margin-right: 5px; font-style: normal;'><a href="https://accessibility.mit.edu"><i class="fa fa-fw fas fa-universal-access" aria-hidden="true"></i> Accessibility</a></li>
+    </ul>
+  </div>
+</div>
 
 <div style="display:none">
 <script type="text/javascript" src="http://gostats.com/js/counter.js"></script>
@@ -235,4 +282,5 @@ href="http://gostats.com"><img alt="web page statistics from GoStats"
 src="http://c3.gostats.com/bin/count/a_390583/t_4/i_1/z_0/show_hits/counter.png"
 style="border-width:0" /></a></noscript>
 </div>
+
 </body></html>
