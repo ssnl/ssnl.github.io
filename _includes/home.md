@@ -2,6 +2,7 @@ I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working wi
 {: style="text-align: justify;"}
 
 I aim to understand when and why machine learning models work well/badly, and build better and more generalizable AI systems. Towards this goal, questions I think about are often related to generalization, distribution shift, quantifying complexity, learning dynamics, etc. My current areas of focus include representation learning, reinforcement learning, and generative modeling.  
+{: style="text-align: justify;"}
 
 Please find my CV [here](/assets/docs/about/cv.pdf).
 
@@ -23,11 +24,12 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
     <div style="display: flex; width: 100%;margin-top: -0.5em">
     <table style="width:100%; height: 210px">
         <tr>
-        <td style="width:42%;border-bottom: 0px;padding:0px">
-            <img src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output">
+        <td style="width:42%;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left">
+            <img style="max-width: 350px" src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
         </td>
-        <td style="border-bottom: 0px;display: inline;padding:0px">
-            <div style="max-width: 62%;text-align: center;font-size: 0.5vw;display: inline-block;text-align:left; padding-top: min(35px,9.4vh); right: 0px; position: absolute;">
+        <td style="width:1%;border-bottom: 0px;padding:0px;" />
+        <td style="width:57%;border-bottom: 0px;padding-bottom:1.03em;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;">
+            <div style="font-size: 0.735em;display: inline-block;text-align:left;width:100%">
               <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em">
         <pre style="margin: 0; line-height: 160%">
 <span style="color: #888888"># bsz : batch size (number of positive pairs)</span>
@@ -41,7 +43,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 <span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">uniform_loss</span>(x, t<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">2</span>):
 <span style="color: #008800; font-weight: bold">    return</span> torch<span style="color: #333333">.</span>pdist(x, p<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">2</span>)<span style="color: #333333">.</span>pow(<span style="color: #0000DD; font-weight: bold">2</span>)<span style="color: #333333">.</span>mul(<span style="color: #333333">-</span>t)<span style="color: #333333">.</span>exp()<span style="color: #333333">.</span>mean()<span style="color: #333333">.</span>log()</pre>
       </div>
-              <div style="text-align: center; font-size: 1.2em"><a href='https://github.com/SsnL/align_uniform'>PyTorch implementation</a> of the alignment and uniformity losses</div>
+              <div style="text-align: center; font-size: 1.35em"><a href='https://github.com/SsnL/align_uniform'>PyTorch implementation</a> of the alignment and uniformity losses</div>
             </div>
         </td>
       </tr>
@@ -55,7 +57,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
     We attempt to distill the knowledge from a large training dataset into a small one. The idea is to <em>synthesize</em> a small number of data points that do not need to come from the correct data distribution, but will, when given to the learning algorithm as training data, approximate the model trained on the original data. For example, we show that it is possible to compress 60,000 MNIST training images into just 10 synthetic <em style="text-decoration: underline;">distilled images</em> and achieve close to original performance with only a few steps of gradient descent, given a fixed network initialization. Experiments on multiple datasets show the advantage of our approach compared to alternative methods in various initialization settings and with different learning objectives.
     {: style="text-align: justify;"}
 
-    ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="max-height:12.5em;width:auto;"}
+    ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
 
 3. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NIPS 2018**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}]
 
@@ -66,7 +68,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     [Oral presentation](/automl_17/slides.pdf) at ICML 2017 AutoML workshop.
 
-    ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="max-height:12.5em;width:auto;"}
+    ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="width:100%;"}
 
 4. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}]
 
@@ -75,7 +77,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
     A machine learning algorithm that takes as input a 2D RGB image and synthesizes a 4D RGBD light field (color and depth of the scene in each ray direction). For training, we introduce the largest public light field dataset. Our algorithm is unique in predicting RGBD for each light field ray and improving unsupervised single image depth estimation by enforcing consistency of ray depths that should intersect the same scene point.
     {: style="text-align: justify;"}
 
-    ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="max-height:12.5em;width:auto;"}
+    ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="width:100%;"}
 
 ## Selected Projects
 
