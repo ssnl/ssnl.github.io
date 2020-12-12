@@ -59,7 +59,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
 
-3. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{:. colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}]
+3. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{:. colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}]
 
     Tongzhou Wang, Yi Wu, David A. Moore, Stuart J. Russell
 
