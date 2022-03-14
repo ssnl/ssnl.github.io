@@ -237,7 +237,7 @@ BODY {
 <h2>Abstract</h2>
 <div style="font-size:14px; text-align: justify;">
 <p>
-Our world is full of asymmetries. Gravity and wind can make reaching a place easier than coming back. Social artifacts such as genealogy charts and citation graphs are inherently directed. Optimal goal-reaching strategies are rarely reversible (symmetrical). Distance functions supported on these asymmetrical structures are called <em class="ul" style="font-weight: bold;">quasimetrics</em>. Despite their common appearance, little research has been done on the learning of quasimetrics.
+Our world is full of asymmetries. Gravity and wind can make reaching a place easier than coming back. Social artifacts such as genealogy charts and citation graphs are inherently directed. In reinforcement learning and control, optimal goal-reaching strategies are rarely reversible (symmetrical). Distance functions supported on these asymmetrical structures are called <em class="ul" style="font-weight: bold;">quasimetrics</em>. Despite their common appearance, little research has been done on the learning of quasimetrics.
 </p><p>
 Our theoretical analysis reveals that a common class of learning algorithms, including unconstrained multilayer perceptrons (MLPs), provably fails to learn a quasimetric consistent with training data. In contrast, our proposed <em class="ul" style="font-weight: bold;">Poisson Quasimetric Embedding (PQE)</em> is the first quasimetric embedding formulation that both is learnable with gradient-based optimization and enjoys strong performance guarantees. Experiments on random graphs, social graphs, and offline Q-learning demonstrate its effectiveness over many common baselines.
 </p>
@@ -259,7 +259,7 @@ Unconstrained bivariate functions is a huge space. A special subset is called <e
   </tr>
 </table>
 <br/>
-Quasimetric Learning is already an important part of many research works, including graph learning, causual relation learning, and reinforcement learning. Yet understanding and analyses of it are largely missing. Many  observations remain unexplained, and there are no principles to guide empirical practices. In this work, we start to fill in this missing piece.
+Quasimetric Learning is already an important part of many research works, including graph learning, causual relation learning, and reinforcement learning. Yet understanding and analyses of it are largely missing. Many  observations remain unexplained, and there are few principles to guide empirical practices. In this work, we start to fill in this missing piece.
 </div>
 
 <hr>
@@ -276,13 +276,13 @@ Quasimetric Learning is already an important part of many research works, includ
   </ul>
 </div>
 
-<h3 style="text-align: left;font-size: 20px;padding-left: 20px; padding-bottom: 0px"><scan class="ul">Existing Approach 2:</scan> Search in a restricted hypothesis space that cannot approximate all quasimetrics</h3>
+<h3 style="text-align: left;font-size: 20px;padding-left: 20px; padding-bottom: 0px"><scan class="ul">Existing Approach 2:</scan> Search in an overly restricted hypothesis space that cannot approximate all quasimetrics</h3>
 <div class="text" style="text-align: justify;margin-left: 0.1em">
   <ul>
     <li>E.g., training encoders to a latent space with metrics, or quasimetrics restricted to inducing some asymmetric norms.
  </li>
     <li style="font-weight: bold;">Exists in prior work.</li>
-    <li>Also not proper for general Quasimetric Learning because of their <scan class="ul">inability to fit arbitrary quasimetric.</scan></li>
+    <li>Also not proper for general Quasimetric Learning because of their <scan class="ul">inability to fit arbitrary quasimetrics.</scan></li>
   </ul>
 </div>
 
@@ -293,8 +293,8 @@ Quasimetric Learning is already an important part of many research works, includ
  </li>
     <li style="font-weight: bold;">No known prior work achieves this.</li>
     <li>Our proposed <scan class="ul" style="font-weight: bold;">Poisson Quasimetric Embedding (PQE)</scan> is such a method with theoretical guarantees.</li>
-    <li><scan class="ul" style="font-weight: bold;">PQE</scan> is a family of <scan class="ul" style="font-weight: bold;">differentiable</scan> latent-space quasimetrics. To learn a quasimetric on some data, one usually jointly trains an encoder. </li>
-    <li>One can play with PQEs using our <a href="https://github.com/SsnL/poisson_quasimetric_embedding">PyTorch package</a>, which includes the initialization and parameterization techniques discussed in paper. </li>
+    <li><scan class="ul" style="font-weight: bold;">PQE</scan> is a family of <scan class="ul" style="font-weight: bold;">differentiable</scan> latent-space quasimetrics, usually associated with a jointly trained encoder. </li>
+    <li>One can play with PQEs using our <a href="https://github.com/SsnL/poisson_quasimetric_embedding">PyTorch package</a>, which includes the initialization and parameterization techniques discussed in the paper. </li>
   </ul>
 </div>
 
@@ -390,7 +390,12 @@ See the paper for results on large-scale real-life social graphs and on  offline
 <h3 style="margin-top: -1.6em"><code style="font-size: 15pt">bibtex</code> <span style="font-size: 14.5pt">entry</span></h3>
 <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;padding-right: 4em;width: 95%">
 <pre style="font-size: 10pt; margin: .3em 0px;text-align: left">
-FIXME
+@inproceedings{wang2022learning,
+  title={On the Learning of Quasimetrics},
+  author={Wang, Tongzhou and Isola, Phillip},
+  booktitle={International Conference on Learning Representations},
+  year={2022}
+}
 </pre>
 
 </div>
