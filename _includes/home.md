@@ -20,7 +20,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     2. <div style="margin-bottom: 0;text-align: justify;">Search in an <em style="text-decoration: underline;">overly restricted space</em> (i.e., special cases of quasimetrics) that is unable to approximate arbitrary quasimetrics</div>
 
-    <p style="margin-bottom: 5px;text-align: justify;">Theoretically, we show a  strong negative result for some common methods of strategy 1 (including neural nets) that they can fail to learn quasimetrics arbitrarily badly. Strategy 2 also suffers from obvious approximation issues. Can we avoid this?</p>
+    <p style="margin-bottom: 5px;text-align: justify;">Theoretically, we show a  strong negative result for neural nets and some other common methods of strategy 1 that they can fail to learn quasimetrics arbitrarily badly. Strategy 2 also suffers from obvious approximation issues. Can we avoid this?</p>
 
     <p style="margin-bottom: 5px;text-align: justify;">Our proposed <a href="https://github.com/SsnL/poisson_quasimetric_embedding">Poisson Quasimetric Embdding (PQE)</a> searches in an <em style="text-decoration: underline;">space that can approximate all quasimetrics and only quasimetrics</em>. In our experiments on random graphs, large-scale social graphs, and offline Q-learning, PQE demonstrate strong performances, and is the only method that can learn various quasimetric structures.</p>
 
