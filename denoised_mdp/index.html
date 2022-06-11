@@ -267,7 +267,7 @@ BODY {
 <h2>Abstract</h2>
 <div style="font-size:14px; text-align: justify;">
 <p>
-The ability to separate signal from noise, and reason with clean abstractions, is critical to intelligence. With this ability, humans can efficiently perform real world tasks without considering all possible nuisance factors. How can artificial agents do the same? What kind of information can agents safely discard as noises? In this work, we categorize information out in the wild into four types based on <em class="ul" style="font-weight: bold;">controllability</em> and <em class="ul" style="font-weight: bold;">relation with reward</em>, and formulate useful information as that which is <span style="text-decoration: underline;">both controllable and reward-relevant</span>.
+The ability to separate signal from noise, and reason with clean abstractions, is critical to intelligence. With this ability, humans can efficiently perform real world tasks without considering all possible nuisance factors. How can artificial agents do the same? What kind of information can agents safely discard as noises? In this work, we categorize information out in the wild into four types based on <em class="ul" style="font-weight: bold;">controllability</em> and <em class="ul" style="font-weight: bold;">relation with reward</em>, and formulate useful information as that which is <em class="ul" style="font-weight: bold;">both controllable and reward-relevant</em>.
 </p><p>
 This framework clarifies the kinds information removed by various prior work on representation learning in reinforcement learning (RL), and leads to our proposed approach of learning a <em class="ul" style="font-weight: bold;">Denoised MDP</em> that explicitly factors out certain noise distractors. Extensive experiments on variants of DeepMind Control Suite and RoboDesk demonstrate superior performance of our denoised world model over using raw observations alone, and over prior works, across policy optimization control tasks as well as the non-control task of joint
 position regression.
@@ -319,7 +319,7 @@ Denoised MDP finds such factorized representations of the real dynamics, while m
 </div>
 
 <div class="text" style="text-align: justify;margin-left: 0.1em">
-The better denoised models from Denoised MDP also lead to better trained policies.  See the paper for policy learning results, with comparisons against many more model-free baselines, including PI-SAC, CURL, Deep Bisimulation for Control, etc.
+The better denoised models from Denoised MDP also lead to <em class="ul">better trained policies</em>.  See the paper for policy learning results, with comparisons against many more model-free baselines, including PI-SAC, CURL, and Deep Bisimulation for Control.
 </div>
 
 <h3 id="signal-noise-factorization" style="font-size:105%">Signal-Noise Factorization</h3>
