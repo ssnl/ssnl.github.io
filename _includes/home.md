@@ -8,8 +8,21 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
 ## Selected Publications
 
-1. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}]
+<!-- 1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdps){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdps){: .small__tt}] [[arXiv (coming soon)](./){: .small__tt}] <br />
+    **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian.
 
+    <p style="margin-bottom: 5px;text-align: justify;">When learning in the real world, signal can be strongly entangled with noises. We characterize information into <em style="text-decoration: underline;">four</em> types, based on <em style="text-decoration: underline;">controllability</em> and <em style="text-decoration: underline;">reward-relevance</em>, where optimial decision only depend on information only information both <em style="text-decoration: underline;">controllable</em> and <em style="text-decoration: underline;">reward-relevant</em>.</p>
+
+    <p style="margin-bottom: 5px;text-align: justify;">With novel factorized MDP transition structures, Denoised MDP use information-theoretical regularizers to fit a world model, where the  <em style="text-decoration: underline;">signal and noise are extracted into a distinct latent spaces</em>.</p>
+
+    <p style="margin-bottom: 5px;text-align: justify;">The resulting formulation succesfully disentangles a variety of noise types (and also noiseless settings), outperforming baseline methods that often can only do well for certain particular noise types.</p>
+
+    <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
+
+    <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video> -->
+
+
+1. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
 
     <p style="margin-bottom: 5px;text-align: justify;"><em style="text-decoration: underline;">Quasimetrics</em> is a generalization of metrics, where the distance can be asymmetrical. It is ubiquitous in our lives (planning costs in MDPs, directed relations such as genealogy charts, etc.). Learning quasimetrics is already an important part of many  research works in RL, graph learning, and causal relation learning.</p>
@@ -26,8 +39,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     <div style="overflow:hidden;"><img src="/quasimetric/images/function_spaces.png" alt="quasimetric-function-spaces" style="width:100%;margin: -4% 0 -5% 0;object-fit: cover;height: 260px;"></div>
 
-1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}]
-
+1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
 
     <p style="margin-bottom: 0;text-align: justify;">Contrastive representation learning has been outstandingly successful in practice. In this work, we identify two key properties related to the contrastive loss:</p>
@@ -68,8 +80,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
     </table>
     </div>
 
-2. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}]
-
+2. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] <br />
     **Tongzhou Wang**, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
 
     We attempt to distill the knowledge from a large training dataset into a small one. The idea is to <em>synthesize</em> a small number of data points that do not need to come from the correct data distribution, but will, when given to the learning algorithm as training data, approximate the model trained on the original data. For example, we show that it is possible to compress 60,000 MNIST training images into just 10 synthetic <em style="text-decoration: underline;">distilled images</em> and achieve close to original performance with only a few steps of gradient descent, given a fixed network initialization. Experiments on multiple datasets show the advantage of our approach compared to alternative methods in various initialization settings and with different learning objectives.
@@ -77,8 +88,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
 
-3. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}]
-
+3. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
     **Tongzhou Wang**, Yi Wu, David A. Moore, Stuart J. Russell
 
     Automated MCMC proposal construction by training neural networks as fast approximations to block Gibbs conditionals. The learned proposals generalize to occurrences of common structural motifs both within a given model and across models, allowing for the construction of a library of learned inference primitives that can accelerate inference on unseen models with no model-specific training required.
@@ -88,8 +98,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="width:100%;"}
 
-4. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}]
-
+4. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
     Pratul Srinivasan, **Tongzhou Wang**, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
 
     A machine learning algorithm that takes as input a 2D RGB image and synthesizes a 4D RGBD light field (color and depth of the scene in each ray direction). For training, we introduce the largest public light field dataset. Our algorithm is unique in predicting RGBD for each light field ray and improving unsupervised single image depth estimation by enforcing consistency of ray depths that should intersect the same scene point.
