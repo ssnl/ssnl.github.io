@@ -261,7 +261,7 @@ BODY {
 <center>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Press green button to shift TV hue to green. <span style="font-weight: bold;">True Signal:</span> Robot joint position, TV green-ness, green light on desk. <span style="font-weight: bold;">True Noise:</span> Lighting, camera, TV content, imperfect sensor.<br>
 TIA does not remove any noise factors, while Denoised MDP correctly identifies all of them.
 <div class="tooltip" style="padding: 0px; margin-left: 0px; margin-right: 0px;margin-top:-1px; max-width: 100%">
@@ -315,7 +315,7 @@ TIA does not remove any noise factors, while Denoised MDP correctly identifies a
 </style>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155705-02f098f7-dca8-4022-995a-57b1aa854935.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Move walker robot forward when sensor readings are noisily affected by background images. <span style="font-weight: bold;">True Signal:</span> Robot joint position. <span style="font-weight: bold;">True Noise:</span> Background, imperfect sensor.<br>
 TIA fails to identify any noise with imperfect sensor readings. Denoised MDP, however, still learns a good factorization of signal and noise.
 </div>
@@ -390,7 +390,7 @@ Visualization of learned models by using decoders to reconstruct from encoded la
 </div>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Press green button to shift TV hue to green. <span style="font-weight: bold;">True Signal:</span> Robot joint position, TV green-ness, green light on desk. <span style="font-weight: bold;">True Noise:</span> Lighting, camera, TV content, imperfect sensor.<br>
 TIA does not remove any noise factors, while Denoised MDP correctly identifies all of them.
 <div class="tooltip" style="padding: 0px; margin-left: 0px; margin-right: 0px;margin-top:-1px; max-width: 100%">
@@ -410,31 +410,31 @@ TIA does not remove any noise factors, while Denoised MDP correctly identifies a
 </div>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155678-4c9bf104-1e15-48e0-882e-b0d097c383a8.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Move half cheetah robot forward. <span style="font-weight: bold;">True Signal:</span> Robot joint position. <span style="font-weight: bold;">True Noise:</span> N/A.<br>
 TIA noise latent still captures some robot move ment (see moving ground texture). Denoised MDP correctly learns a collapsed noise latent space for this noiseless environment.
 </div>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155689-cfe0a504-44e5-4d48-b519-196f4d2a4554.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Move walker robot forward while standing up. <span style="font-weight: bold;">True Signal:</span> Robot joint position. <span style="font-weight: bold;">True Noise:</span> Background.<br>
 Both TIA and Denoised MDP correctly disentangle signal and noise, showing static background in Signal videos, and (mostly) static robot in Noise videos.
 </div>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155695-d85f5866-0bbe-4451-9898-d032d3bcf51c.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Make reacher robot touch the target red object. <span style="font-weight: bold;">True Signal:</span> Robot joint position, target location. <span style="font-weight: bold;">True Noise:</span> Background.<br>
 TIA wrongly models robot position as noise and background as signal. Denoised MDP signal latent space correctly contains only robot and target positons.
 </div>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155705-02f098f7-dca8-4022-995a-57b1aa854935.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Move walker robot forward when sensor readings are noisily affected by background images. <span style="font-weight: bold;">True Signal:</span> Robot joint position. <span style="font-weight: bold;">True Noise:</span> Background, imperfect sensor.<br>
 TIA fails to identify any noise with imperfect sensor readings. Denoised MDP, however, still learns a good factorization of signal and noise.
 </div>
 
 <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-<div style="font-size:12.5px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
+<div style="font-size:12.3px; text-align: justify;padding-top: 0px;margin-left: 0px; margin-right: 0px;max-width: 100%">
 <span style="font-weight: bold;">Task:</span> Move half cheetah robot forward when camera is shaky. <span style="font-weight: bold;">True Signal:</span> Robot joint position. <span style="font-weight: bold;">True Noise:</span> Background, camera.<br>
 TIA signal latent fails to ignore camera movements. Denoised MDP correctly finds a signal latent of only the robot position, and a noise latent of only the camera and background.
 </div>
