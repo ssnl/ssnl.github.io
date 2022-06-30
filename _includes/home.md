@@ -8,7 +8,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
 ## Selected Publications
 
-<!-- 1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdps){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdps){: .small__tt}] [[arXiv (coming soon)](./){: .small__tt}] <br />
+1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdps){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdps){: .small__tt}] [[arXiv (coming soon)](./){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian.
 
     <p style="margin-bottom: 5px;text-align: justify;">When learning in the real world, signal can be strongly entangled with noises. We characterize information into <em style="text-decoration: underline;">four</em> types, based on <em style="text-decoration: underline;">controllability</em> and <em style="text-decoration: underline;">reward-relevance</em>, where optimial decision only depend on information only information both <em style="text-decoration: underline;">controllable</em> and <em style="text-decoration: underline;">reward-relevant</em>.</p>
@@ -19,7 +19,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
 
-    <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video> -->
+    <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video> 
 
 
 1. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] <br />
