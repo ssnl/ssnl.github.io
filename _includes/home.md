@@ -8,7 +8,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
 ## Selected Publications
 
-1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdps){: .small__tt}] <br />
+1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian.
 
     <p style="margin-bottom: 5px;text-align: justify;">When learning in the real world, signal can be strongly entangled with noises. We characterize information into <em style="text-decoration: underline;">four</em> types, based on <em style="text-decoration: underline;">controllability</em> and <em style="text-decoration: underline;">reward-relevance</em>, where optimial decision only depend on information only information both <em style="text-decoration: underline;">controllable</em> and <em style="text-decoration: underline;">reward-relevant</em>.</p>
