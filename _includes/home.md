@@ -8,7 +8,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
 ## Selected Publications
 
-1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdps){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdps){: .small__tt}] [[arXiv (coming soon)](./){: .small__tt}] <br />
+1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdps){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian.
 
     <p style="margin-bottom: 5px;text-align: justify;">When learning in the real world, signal can be strongly entangled with noises. We characterize information into <em style="text-decoration: underline;">four</em> types, based on <em style="text-decoration: underline;">controllability</em> and <em style="text-decoration: underline;">reward-relevance</em>, where optimial decision only depend on information only information both <em style="text-decoration: underline;">controllable</em> and <em style="text-decoration: underline;">reward-relevant</em>.</p>
@@ -19,10 +19,10 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
 
-    <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video> 
+    <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
 
 
-1. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] <br />
+1. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
 
     <p style="margin-bottom: 5px;text-align: justify;"><em style="text-decoration: underline;">Quasimetrics</em> is a generalization of metrics, where the distance can be asymmetrical. It is ubiquitous in our lives (planning costs in MDPs, directed relations such as genealogy charts, etc.). Learning quasimetrics is already an important part of many  research works in RL, graph learning, and causal relation learning.</p>
@@ -39,7 +39,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     <div style="overflow:hidden;"><img src="/quasimetric/images/function_spaces.png" alt="quasimetric-function-spaces" style="width:100%;margin: -4% 0 -5% 0;object-fit: cover;height: 260px;"></div>
 
-1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] <br />
+1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
 
     <p style="margin-bottom: 0;text-align: justify;">Contrastive representation learning has been outstandingly successful in practice. In this work, we identify two key properties related to the contrastive loss:</p>
@@ -80,7 +80,7 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
     </table>
     </div>
 
-2. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] <br />
+2. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] <br />
     **Tongzhou Wang**, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
 
     We attempt to distill the knowledge from a large training dataset into a small one. The idea is to <em>synthesize</em> a small number of data points that do not need to come from the correct data distribution, but will, when given to the learning algorithm as training data, approximate the model trained on the original data. For example, we show that it is possible to compress 60,000 MNIST training images into just 10 synthetic <em style="text-decoration: underline;">distilled images</em> and achieve close to original performance with only a few steps of gradient descent, given a fixed network initialization. Experiments on multiple datasets show the advantage of our approach compared to alternative methods in various initialization settings and with different learning objectives.
