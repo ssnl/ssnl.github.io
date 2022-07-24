@@ -1,55 +1,28 @@
-I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I worked at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) on [PyTorch](https://pytorch.org/), and studied computer science and statistics at UC Berkeley, where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/){:.color} at [Berkeley AI Research (BAIR)](http://bair.berkeley.edu/).
-{: style="text-align: justify;"}
+I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). I think a lot about how to learn representations of data and the real world such that they enable more general and efficient intelligent behavior. My current interests are representation learning, reinforcement learning, dataset distillation, and machine learning in general.
+{: style="text-align: justify"}
 
-I think a lot about how to learn representations of data and the real world, such that they enable more general and efficient intelligent behavior. My current areas of focus include representation learning, reinforcement learning, and generative modeling.  
-{: style="text-align: justify;"}
+I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+{: style="text-align: justify"}
 
-Please find my CV [here](/assets/docs/about/cv.pdf).
+Before joining MIT, I worked at [Facebook AI Research (FAIR, now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) on [PyTorch](https://pytorch.org/), and studied computer science and statistics at UC Berkeley, where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color}.
+{: style="text-align: justify;"}
 
 ## Selected Publications
 
-1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](/denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
-    **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian.
-
-    <p style="margin-bottom: 5px;text-align: justify;">When learning in the real world, signal can be strongly entangled with noises. We characterize information into <em style="text-decoration: underline;">four</em> types, based on <em style="text-decoration: underline;">controllability</em> and <em style="text-decoration: underline;">relation with reward</em>, where optimial decision only depend on information only information both <em style="text-decoration: underline;">controllable</em> and <em style="text-decoration: underline;">reward-relevant</em>.</p>
-
-    <p style="margin-bottom: 5px;text-align: justify;">With novel factorized MDP transition structures, Denoised MDP use information-theoretical regularizers to fit a world model, where the  <em style="text-decoration: underline;">signal and noise are extracted into a distinct latent spaces</em>.</p>
-
-    <p style="margin-bottom: 5px;text-align: justify;">The resulting formulation succesfully disentangles a variety of noise types (and also noiseless settings), outperforming baseline methods that often can only do well for certain particular noise types.</p>
+1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
+    **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian
+    {: style="margin-bottom: 0"}
 
     <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
 
-    <video src="https://user-images.githubusercontent.com/5674597/173155710-285d0088-b3a3-42e7-9127-a177e4f6b955.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
-
-
-1. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
+2. **On the Learning and Learnablity of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
-
-    <p style="margin-bottom: 5px;text-align: justify;"><em style="text-decoration: underline;">Quasimetrics</em> is a generalization of metrics, where the distance can be asymmetrical. It is ubiquitous in our lives (planning costs in MDPs, directed relations such as genealogy charts, etc.). Learning quasimetrics is already an important part of many  research works in RL, graph learning, and causal relation learning.</p>
-
-    <p style="margin-bottom: 0;text-align: justify;">Our work starts to fill in the missing piece of understanding when Quasimetric Learning is possible, and the best principles towards it. Current strategies mostly fall into two categories:</p>
-
-    1. <div style="margin-bottom: 0;text-align: justify;">Use generic function approximators (e.g., neural nets) to search in the <em style="text-decoration: underline;">relaxed space of unconstrainted bivariate functions</em></div>
-
-    2. <div style="margin-bottom: 0;text-align: justify;">Search in an <em style="text-decoration: underline;">overly restricted space</em> (i.e., special cases of quasimetrics) that is unable to approximate arbitrary quasimetrics</div>
-
-    <p style="margin-bottom: 5px;text-align: justify;">Theoretically, we show a  strong negative result for neural nets and some other common methods of strategy 1 that they can fail to learn quasimetrics arbitrarily badly. Strategy 2 also suffers from obvious approximation issues. Can we avoid this?</p>
-
-    <p style="margin-bottom: 5px;text-align: justify;">Our proposed <a href="https://github.com/SsnL/poisson_quasimetric_embedding">Poisson Quasimetric Embdding (PQE)</a> searches in an <em style="text-decoration: underline;">space that can approximate all quasimetrics and only quasimetrics</em>. In our experiments on random graphs, large-scale social graphs, and offline Q-learning, PQE demonstrate strong performances, and is the only method that can learn various quasimetric structures.</p>
+    {: style="margin-bottom: 0"}
 
     <div style="overflow:hidden;"><img src="/quasimetric/images/function_spaces.png" alt="quasimetric-function-spaces" style="width:100%;margin: -4% 0 -5% 0;object-fit: cover;height: 260px;"></div>
 
-1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
+3. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
-
-    <p style="margin-bottom: 0;text-align: justify;">Contrastive representation learning has been outstandingly successful in practice. In this work, we identify two key properties related to the contrastive loss:</p>
-
-    1. <div style="margin-bottom: 0;text-align: justify;"><em style="text-decoration: underline;">alignment</em> (closeness) of features from positive pairs, and</div>
-
-    2. <div style="margin-bottom: 0;text-align: justify;"><em style="text-decoration: underline;">uniformity</em> of the induced distribution of the (normalized) features on the hypersphere.</div>
-
-    We prove that, asymptotically, the contrastive loss optimizes these properties, and analyze their positive effects on downstream tasks. Empirically, we introduce an optimizable metric to quantify each property. Extensive experiments on standard vision and language datasets confirm the strong agreement between <em>both metrics</em> and downstream task performance. Remarkably, directly optimizing for these two metrics leads to representations with comparable or better performance at downstream tasks than contrastive learning.
-    {: style="text-align: justify;"}
 
     <div style="display: flex; width: 100%;margin-top: -0.5em">
     <table style="width:100%; height: 210px">
@@ -80,30 +53,18 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
     </table>
     </div>
 
-2. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] <br />
+4. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] <br />
     **Tongzhou Wang**, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
-
-    We attempt to distill the knowledge from a large training dataset into a small one. The idea is to <em>synthesize</em> a small number of data points that do not need to come from the correct data distribution, but will, when given to the learning algorithm as training data, approximate the model trained on the original data. For example, we show that it is possible to compress 60,000 MNIST training images into just 10 synthetic <em style="text-decoration: underline;">distilled images</em> and achieve close to original performance with only a few steps of gradient descent, given a fixed network initialization. Experiments on multiple datasets show the advantage of our approach compared to alternative methods in various initialization settings and with different learning objectives.
-    {: style="text-align: justify;"}
 
     ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
 
-3. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
+5. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[ICML 2017 AutoML Workshop Oral](./automl_17/slides.pdf)] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
     **Tongzhou Wang**, Yi Wu, David A. Moore, Stuart J. Russell
-
-    Automated MCMC proposal construction by training neural networks as fast approximations to block Gibbs conditionals. The learned proposals generalize to occurrences of common structural motifs both within a given model and across models, allowing for the construction of a library of learned inference primitives that can accelerate inference on unseen models with no model-specific training required.
-    {: style="text-align: justify;"}
-
-    [Oral presentation](/automl_17/slides.pdf) at ICML 2017 AutoML workshop.
 
     ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="width:100%;"}
 
-4. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
+6. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
     Pratul Srinivasan, **Tongzhou Wang**, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
-
-    A machine learning algorithm that takes as input a 2D RGB image and synthesizes a 4D RGBD light field (color and depth of the scene in each ray direction). For training, we introduce the largest public light field dataset. Our algorithm is unique in predicting RGBD for each light field ray and improving unsupervised single image depth estimation by enforcing consistency of ray depths that should intersect the same scene point.
-    {: style="text-align: justify;"}
-
     ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="width:100%;"}
 
 ## Selected Projects
@@ -112,18 +73,10 @@ Please find my CV [here](/assets/docs/about/cv.pdf).
 
     **Tongzhou Wang** and Yihan Lin with research group of Prof. Alexei A. Efros
 
-    Improving CycleGAN by designing better formulation and/or automatic dataset selection algorithms.
-    {: style="text-align: justify;"}
+    Related report: [**CycleGAN with Better Cycles**{: style="font-size: 0.95em"}](/better_cycles/report.pdf).
 
-    Relevant vision course project: **CycleGAN with Better Cycles**{: style="font-size: 0.95em"} [[paper](/better_cycles/report.pdf){: .small__tt}, [slides](/better_cycles/slides.pdf){: .small__tt}].
-
-2. **Modeling Punctuations in Online Reviews** [[paper](/punctuations/report.pdf){: .small__tt}, [poster](/punctuations/poster.pdf){: .small__tt}]
+2. **Modeling Punctuations in Online Reviews**<br/>[[technical report](/punctuations/report.pdf){: .small__tt}]
 
     **Tongzhou Wang**
-
-    Analysis on punctuation structures in positive and negative online Steam reviews with an HMM model where the auxiliary sentence type variables are hidden and conditional probabilities of observed punctuations are modeled as from Markov chains based on the sentence types.
-    {: style="text-align: justify;"}
-
-    Course project of graduate-level statistical learning theory class.
 
     ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"}
