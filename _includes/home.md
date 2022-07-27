@@ -19,7 +19,7 @@ Before joining MIT, I worked at [Facebook AI Research (now Meta AI)](https://res
     **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom: 0"}
 
-    <div style="overflow:hidden;"><img src="/quasimetric/images/function_spaces.png" alt="quasimetric-function-spaces" style="width:100%;margin: -4% 0 -5% 0;object-fit: cover;height: 260px;"></div>
+    <img src="./quasimetric/images/function_spaces_cropped.png" alt="quasimetric-function-spaces" style="width:100%">
 
 3. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
@@ -28,7 +28,7 @@ Before joining MIT, I worked at [Facebook AI Research (now Meta AI)](https://res
     <table style="width:100%; height: 210px">
         <tr>
         <td style="width:42%;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left">
-            <img style="max-width: 350px" src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
+            <img src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
         </td>
         <td style="width:1%;border-bottom: 0px;padding:0px;" />
         <td style="width:57%;border-bottom: 0px;padding-bottom:1.03em;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;">

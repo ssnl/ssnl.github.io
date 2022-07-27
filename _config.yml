@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Tongzhou's Site"
+title                    : "Tongzhou Wang"
 title_separator          : "-"
 name                     : "Tongzhou Wang"
 description              : "Tongzhou Wang's personal website."
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Tongzhou Wang"
-  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_cat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MIT CSAIL"
   location         : "Cambridge, MA"
   email            :
