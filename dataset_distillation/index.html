@@ -66,11 +66,11 @@ BODY {
 <hr>
 <center style='margin-bottom:15px'><h2><strong>The <u>Dataset Distillation</u> Task</strong></h2></center>
 <p>
-<strong>Dataset distillation</strong> is the task of synethesizing a small dataset such that models trained on it achieve high performance on the original large dataset.
+<strong><u>Dataset distillation</u></strong> is the task of synethesizing a small dataset such that models trained on it achieve high performance on the original large dataset.
 
-A dataset distillation algorithm takes as <strong>input</strong> a large real  dataset to be distilled (training set), and <strong>outputs</strong> a small synthetic distilled dataset, which is evaluated by testing models trained on this distilled dataset on a <em>separate</em> real dataset (validation/test set).  A good small distilled dataset is not only useful in dataset understanding, but has various applications (e.g., continual learning and neural architecture search).
+A dataset distillation algorithm takes as <strong>input</strong> a large real  dataset to be distilled (training set), and <strong>outputs</strong> a small synthetic distilled dataset, which is evaluated via testing models trained on this distilled dataset on a <em>separate</em> real dataset (validation/test set).  A good small distilled dataset is not only useful in dataset understanding, but has various applications (e.g., continual learning, privacy, neural architecture search, etc.).
 
-This task was first introduced in our 2018 paper <a href='https://arxiv.org/abs/1811.10959'><em>Dataset Distillation</em><span style='font-family:normal'> [Wang et. al., '18]</span></a>, which is also presented in details on this page.
+This task was first introduced in our 2018 paper <a href='https://arxiv.org/abs/1811.10959'><em>Dataset Distillation</em><span style='font-family:normal'> [Wang et al., '18]</span></a>, along with a proposed algorithm using backpropagation through optimization steps. Details of this paper is also presented on this webpage.
 </p>
 
 <!-- <p>
@@ -78,14 +78,52 @@ Since its introduction, dataset distillation has gained increasing attention in 
 </p> -->
 
 <p>
-In recent years (2019-now), dataset distillation has gained increasing attention, and more researches are being published each year. Some works refer to the task as <em>Dataset Condensation</em>, likely named after a 2020 follow-up paper <a href="https://arxiv.org/abs/2006.05929"  style='font-family:normal'>[Zhao et. al., '18]</a> to <em>Dataset Distillation</em>, but generally share the same setting and goal as dataset distillation. Nonetheless, all these wonderful researches work towards improving dataset distillation and exploring its various applications.
+In recent years (2019-now), dataset distillation has gained increasing attention in the research community, across many institutes and labs. More papers are now being published each year. These wonderful researches have been constantly improving dataset distillation and exploring its various variants and applications.
 </p>
 
+<h3>Our Dataset Distillation Papers:</h3>
+<ul style='font-size:120%'>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='.'>T. Wang, J. Y. Zhu, A. Torralba, A. and A. A. Efros. "Dataset Distillation". 2018.</a>
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://georgecazenavette.github.io/mtt-distillation/'>G. Cazenavette, T. Wang, A. Torralba, A. A. Efros, J. Y. Zhu. "Dataset Distillation by Matching Training Trajectories". CVPR 2022.</a>
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://georgecazenavette.github.io/mtt-distillation/'>G. Cazenavette, T. Wang, A. Torralba, A. A. Efros, J. Y. Zhu. "Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation". Workshop on Computer Vision for Fashion, Art, and Design at CVPR 2022.</a>
+    </li>
+</ul>
+
+
+<h3>Other Works Related to Dataset Distillation (Partial List):</h3>
+<ul style='font-size:120%'>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://arxiv.org/abs/2006.05929'>[Zhao et. al., ICLR 2021]</a>: new method called <em>Dataset Condensation</em> optimizing a gradient-matching surrogate objective.
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html'>[Nguyen et. al. NeurIPS 2021]</a>: distillation w.r.t. the infinite-width limit Neural Tangent Kernel.
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://arxiv.org/abs/2205.14959'>[Kim et. al., ICML 2022]</a>: reparametrizing distilled dataset via multi-scale patches.
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://arxiv.org/abs/2110.07580'>[Jin et. al. ICLR 2022]</a>: distill large-scale graph for graph neural networks.
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://arxiv.org/abs/2202.02916'>[Lee et. al., ICML 2022]</a>: careful scheduling of class-wise and class-collective objectives.
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://eng.uber.com/generative-teaching-networks/'>[Such et. al., ICML 2020]</a>: training a generator that outputs good synthetic trianing data, with application in Neural Architecture Search.
+    </li>
+    <li>
+        <a style='font-family:normal;font-weight:normal' href='https://arxiv.org/abs/2206.02916'>[Deng et. al., 2022]</a>: new reparametrization that improves distillation via simple backpropagation through optimization steps, with application in continual learning.
+    </li>
+</ul>
 <p>
-Please check out <a href='https://github.com/Guang000/Awesome-Dataset-Distillation'>this awesome collection of dataset distillation papers</a>, curated and maintained by Guang Li and Tongzhou Wang.
+Please check out <a href='https://github.com/Guang000/Awesome-Dataset-Distillation'>this awesome collection of dataset distillation papers</a>, curated and maintained by Guang Li, Bo Zhao and Tongzhou Wang.
 </p>
 
-<p style="font-size:small">Last updated by Tongzhou Wang on July 27th 2022.</p>
+<p style="font-size:small">Last updated by Tongzhou Wang on August 7th 2022.</p>
 <hr>
 <center><h2><strong>
 Check out our latest CVPR 2022 work:
