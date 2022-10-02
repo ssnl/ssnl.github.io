@@ -1,5 +1,5 @@
-I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on leveraging learned representation to enable intelligent agents that are capable, robust, efficient, and general.
-My current focuses are **representation learning for various structures and geometries in data**, and **enabling efficient, adaptive and general control via learned representations**. I am broadly interested in representation learning, reinforcement learning, dataset distillation, and machine learning in general.
+I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on machine learning.
+My current focuses are **geometric structures of learned representations that encode data properties**, and **enabling efficient, adaptive and general agents via such learned representations**. I am broadly interested in representation learning, reinforcement learning, dataset distillation, and machine learning in general.
 {: style="text-align: justify"}
 
 I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
