@@ -62,15 +62,23 @@
       {% if author.twitter %}
         <li>
           <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+            <i class="fa fa-fw fa-brands fa-twitter" aria-hidden="true"></i> Twitter
           </a>
         </li>
+      {% endif %}
+
+      {% if author.mastodon %}
+        <li>
+            <a rel="me" href="{{ author.mastodon }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-brands fa-mastodon" aria-hidden="true"></i> Mastodon
+          </a>
+       </li>
       {% endif %}
 
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+            <i class="fa fa-fw fa-brands fa-facebook-square" aria-hidden="true"></i> Facebook
           </a>
         </li>
       {% endif %}
@@ -126,7 +134,7 @@
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+            <i class="fa fa-fw fa-brands fa-github" aria-hidden="true"></i> GitHub
           </a>
         </li>
       {% endif %}
