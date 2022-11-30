@@ -10,6 +10,12 @@ Before joining MIT, I worked at [Facebook AI Research (now Meta AI)](https://res
 
 ## Selected Publications
 
+1. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
+    **Tongzhou Wang**, Phillip Isola    
+    {: style="margin-bottom: 0"}
+
+    <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" style="width:97%;margin-top:2.5%">
+
 1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian
     {: style="margin-bottom: 0"}
