@@ -8,6 +8,8 @@ I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.
 Before joining MIT, I worked at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) on [PyTorch](https://pytorch.org/), and studied computer science and statistics at UC Berkeley, where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color}.
 {: style="text-align: justify;"}
 
+Click [here](./assets/docs/about/cv.pdf) for my CV.
+
 ## Selected Publications
 
 1. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
