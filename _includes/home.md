@@ -76,6 +76,7 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
     Pratul Srinivasan, **Tongzhou Wang**, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
     ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="width:100%;"}
 
+<!--
 ## Selected Projects
 
 1. **Improved Training of Cycle-Consistent Adversarial Networks**
@@ -89,3 +90,5 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
     **Tongzhou Wang**
 
     ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"}
+-->
+
