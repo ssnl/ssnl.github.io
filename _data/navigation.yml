@@ -12,5 +12,5 @@ main:
   #   url: /sitemap/
   - title: "CV"
     url: /assets/docs/about/cv.pdf
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #  url: /blog/
