@@ -14,8 +14,10 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
 
 1. [PyTorch](https://pytorch.org/) core developer (2017 - 2019, initial team size <10). Data loading, CUDA/CPU kernels, autograd optimization, ML ops, Python binding, etc.
 2. [`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020). One of the earliest PyTorch toolkit for re-parametrizing neural networks, e.g., for hyper-nets and meta-learning.
-3. [`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 -). PyTorch toolkit for SOTA [quasimetric learning](./interval_quasimetric_embedding).
-4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 -). 18.9k stars.
+3. [`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now). PyTorch toolkit for SOTA [quasimetric learning](./interval_quasimetric_embedding).
+4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now). 18.9k stars.
+
+See  the next section for open source code for my researches.
 
 ## Selected Publications
 
