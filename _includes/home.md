@@ -17,7 +17,7 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
 3. [`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now). PyTorch toolkit for SOTA [quasimetric learning](./interval_quasimetric_embedding).
 4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now). 18.9k stars.
 
-See  the next section for open source code for my researches.
+See below for open source code for my researches.
 
 ## Selected Publications
 
