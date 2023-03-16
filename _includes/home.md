@@ -1,5 +1,5 @@
 I am a current PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on machine learning.
-My current focuses are **geometric structures of learned representations**, and **enabling efficient, adaptive and general agents via such representations**. I am broadly interested in representation learning, reinforcement learning, synthetic training data, dataset distillation, and machine learning in general.
+My current focuses are **geometric structures of learned representations**, and **enabling efficient, adaptive and general agents via such representations**. I am broadly interested in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning in general.
 {: style="text-align: justify"}
 
 I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
@@ -12,7 +12,7 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
 
 ## Open Source Projects
 
-1. [PyTorch](https://pytorch.org/) core developer (2017 - 2019, initial team size <10). Data loading, CUDA/CPU kernels, autograd optimization, ML ops, Python binding, etc.
+1. [PyTorch](https://pytorch.org/) core developer (2017 - 2019; team size <10). Data loading, CUDA/CPU kernels, API design, autograd optimization, ML ops, Python binding, etc.
 2. [`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020). One of the earliest PyTorch toolkits for re-parametrizing neural networks, e.g., for hyper-nets and meta-learning.
 3. [`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now). PyTorch toolkit for SOTA [quasimetric learning](./interval_quasimetric_embedding).
 4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now). 18.9k stars.
@@ -75,7 +75,7 @@ See below for open source code for my researches.
     </table>
     </div>
 
-4. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}] <br />
+4. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}]  [[DD Papers](https://github.com/Guang000/Awesome-Dataset-Distillation){: .small__tt}] <br />
     **Tongzhou Wang**, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
 
     ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
