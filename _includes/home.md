@@ -21,9 +21,11 @@ See below for open source code for my researches.
 
 ## Selected Publications
 
+<!---
 1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** <br />
     **Tongzhou Wang**, Antonio Torralba, Phillip Isola, Amy Zhang
     {: style="margin-bottom: 0"}
+--->
 
 1. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola    
