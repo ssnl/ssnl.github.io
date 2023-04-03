@@ -378,23 +378,10 @@ Quasimetric models are thus perfect choices for parametrizing the optimal goal-r
 
 <div style="text-align: justify;font-size: 16px;max-width:97.5%">
   One can simply plug such quasimetric models into standard RL algorithms (e.g., Q-learning and DDPG), <a style="text-decoration: underline;" href="../quasimetric/">as</a>  <a style="text-decoration: underline;" href="../interval_quasimetric_embedding">these</a> <a style="text-decoration: underline;" href="https://arxiv.org/abs/2002.05825">works</a>  <a style="text-decoration: underline;" href="https://arxiv.org/abs/2208.08133">do</a>. However, the convergence of such algorithms is <span style="font-weight: bold;">not guaranteed</span>, as
-   <span class="tooltip" style="text-align: left;padding: 0px;margin-left: 0px; margin-right: 0px;border-bottom: 1px dotted black; max-width: 100%;">the intermediate results may not quasimetric functions.
-   <span class="tooltipdetails" style="padding:0px">
-     <div style="font-size: 14px; max-width: 100%; padding-top: 7px">
-      These algorithms generally rely on policy iteration, temporal-difference learning, or iterative Bellman updates, all of which do converge to optimal $V^*$ <span style="font-weight: bold;">with an unconstrained function class</span>, thanks to its capability of representing on-policy values or Bellman update outputs.
-      However, there is no guarantee that such intermediate results are quasimetrics (see our Theorem 1), and thus the standard convergence results cannot directly extend to value functions parametrized by quasimetric models which can only model quasimetrics.
-     </div>
-   </span>
-   </span>
-   Therefore, benefits can be
-   <span class="tooltip" style="text-align: left;padding: 0px;margin-left: 0px; margin-right: 0px;border-bottom: 1px dotted black; max-width: 100%;">rather minor,
-   <span class="tooltipdetails" style="padding:0px">
-     <div style="font-size: 14px; max-width: 100%; padding-top: 7px">
-      E.g., see offline Q-learning results in <a style="text-decoration: underline;" href="../quasimetric/">these</a>  <a style="text-decoration: underline;" href="../interval_quasimetric_embedding">works</a>.
-     </div>
-   </span>
-   </span>
-   and sometimes
+   <span class="tooltip" style="text-align: left;padding: 0px;margin-left: 0px; margin-right: 0px;border-bottom: 1px dotted black; max-width: 100%;">the intermediate step results may not be quasimetric functions and cannot be represented by quasimetric models<span class="tooltipdetails" style="padding:0px">
+     <div style="font-size: 14px; max-width: 100%; padding-top: 7px">These algorithms generally rely on policy iteration, temporal-difference learning, or iterative Bellman updates, all of which do converge to optimal $V^*$ <span style="font-weight: bold;">with an unconstrained function class</span>, thanks to its capability of representing on-policy values or Bellman update outputs.
+      However, there is no guarantee that such intermediate results are quasimetrics (see our Theorem 1), and thus the standard convergence results do not directly extend to value functions parametrized by <span style="font-weight: bold;">quasimetric models</span> which can only model quasimetrics.</div></span></span>.
+   Therefore, benefits can be<span class="tooltip" style="text-align: left;padding: 0px;margin-left: 0px; margin-right: 0px;border-bottom: 1px dotted black; max-width: 100%;">rather minor<span class="tooltipdetails" style="padding:0px"><div style="font-size: 14px; max-width: 100%; padding-top: 7px">E.g., see offline Q-learning results in <a style="text-decoration: underline;" href="../quasimetric/">these</a>  <a style="text-decoration: underline;" href="../interval_quasimetric_embedding">works</a>.</div></span></span>,   and sometimes
    <span class="tooltip" style="text-align: left;padding: 0px;margin-left: 0px; margin-right: 0px;border-bottom: 1px dotted black; max-width: 100%;">quasimetric constraints are relaxed.
    <span class="tooltipdetails" style="padding:0px">
      <div style="font-size: 14px; max-width: 100%; padding-top: 7px">
