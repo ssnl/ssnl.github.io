@@ -21,9 +21,10 @@ See below for open source code for my researches.
 
 ## Selected Publications
 
-1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** <br />[[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
+1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**<br />[[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
     **Tongzhou Wang**, Antonio Torralba, Phillip Isola, Amy Zhang
     {: style="margin-bottom: 0"}
+
     <div class="table-like" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:5px;padding: 0px;">
         <table style="width: calc(100% );">
         <tr style="width: 100%;text-align: center;">
