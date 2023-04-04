@@ -28,19 +28,19 @@ See below for open source code for my researches.
     <div class="table-like" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:5px;padding: 0px;">
         <table style="width: calc(100% );">
         <tr style="width: 100%;text-align: center;">
-            <td style="font-size:15.5px;font-family:monospace;display: inline-block;text-align: center;width:35%;padding: 0px;border-bottom:0px">
+            <td style="font-size:1.25em;font-family:monospace;display: inline-block;text-align: center;width:35%;padding: 0px;border-bottom:0px">
             <img style="float: left; width: 100%;padding-bottom: 10px;" alt="paper thumbnail" src="./quasimetric_rl/assets/images/quasimetric_structure.png">
             Quasimetric Geometry
-            </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
+            </td><td style="font-size:2.9em;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             +
-            </td><td style="font-size:15.5px;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
+            </td><td style="font-size:1.25em;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
             <video src="https://user-images.githubusercontent.com/5674597/229619483-4e565dee-7b69-45a6-8f81-f21647f0df71.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video></div>
             A Novel Objective<br>
-            <div style="font-size: 12.5px;padding:0px;padding-top: 0px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
-            </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
+            <div style="font-size: 0.72em;padding:0px;padding-top: 0px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
+            </td><td style="font-size:2.9em;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             =
-            </td><td style="font-size:15px;font-family:monospace;display: inline-block;text-align: center;width:21%;padding: 0px;border-bottom:0px">
-            Optimal Value $V^*$<br><span style="color:#97999c; font-weight: 200;font-style: italic;">AND</span><br> High-Performing Goal-Reaching Agents
+            </td><td style="font-size:1.2em;font-family:monospace;display: inline-block;text-align: center;width:22%;padding: 0px;border-bottom:0px">
+            Optimal Value $V^*$<br><span style="color:#97999c; font-weight: 200;font-style: italic;">AND</span><br>High-Performing<br>Goal-Reaching Agents
             </td>
         </tr>
         </table>
@@ -68,14 +68,13 @@ See below for open source code for my researches.
     **Tongzhou Wang**, Phillip Isola
 
     <div style="display: flex; width: 100%;margin-top: -0.5em">
-    <table style="width:100%; height: 210px">
-        <tr>
-        <td style="width:42%;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left">
-            <img src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
-        </td>
-        <td style="width:1%;border-bottom: 0px;padding:0px;" />
-        <td style="width:57%;border-bottom: 0px;padding-bottom:1.03em;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;">
-            <div style="font-size: 0.735em;display: inline-block;text-align:left;width:100%">
+    <div style="width:100%; height: 260px; display:flex">
+        <div style="width:310px;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left">
+            <img style="max-width:100%;max-height:100%;" src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
+        </div>
+        <div style="width:3%"></div>
+        <div style="width:calc(100% - 3% - 340px);border-bottom: 0px;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;display:contents;font-size:0.78em">
+            <div style="font-size: 0.735em;display: inline-block;text-align:left;padding-bottom:1.5em;max-width:100%;max-height:100%;align-self:flex-end" >
               <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em">
         <pre style="margin: 0; line-height: 160%">
 <span style="color: #888888"># bsz : batch size (number of positive pairs)</span>
@@ -91,9 +90,8 @@ See below for open source code for my researches.
       </div>
               <div style="text-align: center; font-size: 1.35em"><a href='https://github.com/SsnL/align_uniform'>PyTorch implementation</a> of the alignment and uniformity losses</div>
             </div>
-        </td>
-      </tr>
-    </table>
+        </div>
+      </div>
     </div>
 
 1. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}]  [[DD Papers](https://github.com/Guang000/Awesome-Dataset-Distillation){: .small__tt}] <br />
