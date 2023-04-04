@@ -28,15 +28,15 @@ See below for open source code for my researches.
     <div class="table-like" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:5px;padding: 0px;">
         <table style="width: calc(100% );">
         <tr style="width: 100%;text-align: center;">
-            <td style="font-size:13.5px;font-family:monospace;display: inline-block;text-align: center;width:35%;padding: 0px;border-bottom:0px">
+            <td style="font-size:15.5px;font-family:monospace;display: inline-block;text-align: center;width:35%;padding: 0px;border-bottom:0px">
             <img style="float: left; width: 100%;padding-bottom: 10px;" alt="paper thumbnail" src="./quasimetric_rl/assets/images/quasimetric_structure.png">
             Quasimetric Geometry
             </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             +
-            </td><td style="font-size:13.5px;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
+            </td><td style="font-size:15.5px;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
             <video src="https://user-images.githubusercontent.com/5674597/229619483-4e565dee-7b69-45a6-8f81-f21647f0df71.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video></div>
             A Novel Objective<br>
-            <div style="font-size: 11.5px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
+            <div style="font-size: 12.5px;padding:0px;padding-top: 0px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
             </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             =
             </td><td style="font-size:15px;font-family:monospace;display: inline-block;text-align: center;width:21%;padding: 0px;border-bottom:0px">
@@ -46,25 +46,25 @@ See below for open source code for my researches.
         </table>
     </div>
 
-1. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
+2. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom: 0"}
 
     <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" style="width:97%;margin-top:2.5%">
 
-1. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
+3. **Denoised MDPs: Learning World Models Better Than The World**<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian
     {: style="margin-bottom: 0"}
 
     <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
 
-2. **On the Learning and Learnability of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
+4. **On the Learning and Learnability of Quasimetrics**<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom: 0"}
 
     <img src="./quasimetric/images/function_spaces_cropped.png" alt="quasimetric-function-spaces" style="width:100%">
 
-3. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
+5. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere**<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
 
     <div style="display: flex; width: 100%;margin-top: -0.5em">
@@ -96,17 +96,17 @@ See below for open source code for my researches.
     </table>
     </div>
 
-4. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}]  [[DD Papers](https://github.com/Guang000/Awesome-Dataset-Distillation){: .small__tt}] <br />
+1. **Dataset Distillation**<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}]  [[DD Papers](https://github.com/Guang000/Awesome-Dataset-Distillation){: .small__tt}] <br />
     **Tongzhou Wang**, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
 
     ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
 
-5. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[ICML 2017 AutoML Workshop Oral](./automl_17/slides.pdf)] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
+2. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[ICML 2017 AutoML Workshop Oral](./automl_17/slides.pdf)] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
     **Tongzhou Wang**, Yi Wu, David A. Moore, Stuart J. Russell
 
     ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="width:100%;"}
 
-6. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
+3. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
     Pratul Srinivasan, **Tongzhou Wang**, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
     ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="width:100%;"}
 
