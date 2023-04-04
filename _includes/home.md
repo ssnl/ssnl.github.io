@@ -38,7 +38,7 @@ See below for open source code for my researches.
             <div style="font-size: 11.5px;">(Push apart <span style="color:red;font-weight: 1000;">start state</span> and <span style="color:red;font-weight: 1000;">goal</span><br>while maintaining local distances)</div>
             </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             =
-            </td><td style="font-size:14px;font-family:monospace;display: inline-block;text-align: center;width:19.5%;padding: 0px;border-bottom:0px">
+            </td><td style="font-size:15px;font-family:monospace;display: inline-block;text-align: center;width:21%;padding: 0px;border-bottom:0px">
             Optimal Value $V^*$<br><span style="color:#97999c; font-weight: 200;font-style: italic;">AND</span><br> High-Performing Goal-Reaching Agents
             </td>
         </tr>
