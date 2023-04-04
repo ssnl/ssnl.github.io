@@ -36,7 +36,7 @@ See below for open source code for my researches.
             </td><td style="font-size:13.5px;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
             <video src="https://user-images.githubusercontent.com/5674597/229619483-4e565dee-7b69-45a6-8f81-f21647f0df71.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video></div>
             A Novel Objective<br>
-            <div style="font-size: 11.5px;">(Push apart <span style="color:red;font-weight: 1000;">start state</span> and <span style="color:red;font-weight: 1000;">goal</span><br>while maintaining local distances)</div>
+            <div style="font-size: 11.5px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
             </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             =
             </td><td style="font-size:15px;font-family:monospace;display: inline-block;text-align: center;width:21%;padding: 0px;border-bottom:0px">
