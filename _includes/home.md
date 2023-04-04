@@ -21,14 +21,32 @@ See below for open source code for my researches.
 
 ## Selected Publications
 
-<!---
-1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** <br />
+1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** <br />[[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
     **Tongzhou Wang**, Antonio Torralba, Phillip Isola, Amy Zhang
     {: style="margin-bottom: 0"}
---->
+    <div class="table-like" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:5px;padding: 0px;">
+        <table style="width: calc(100% );">
+        <tr style="width: 100%;text-align: center;">
+            <td style="font-size:13.5px;font-family:monospace;display: inline-block;text-align: center;width:35%;padding: 0px;border-bottom:0px">
+            <img style="float: left; width: 100%;padding-bottom: 10px;" alt="paper thumbnail" src="./quasimetric_rl/assets/images/quasimetric_structure.png">
+            Quasimetric Geometry
+            </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
+            +
+            </td><td style="font-size:13.5px;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
+            <video src="https://user-images.githubusercontent.com/5674597/229619483-4e565dee-7b69-45a6-8f81-f21647f0df71.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video></div>
+            A Novel Objective<br>
+            <div style="font-size: 11.5px;">(Push apart <span style="color:red;font-weight: 1000;">start state</span> and <span style="color:red;font-weight: 1000;">goal</span><br>while maintaining local distances)</div>
+            </td><td style="font-size:30px;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
+            =
+            </td><td style="font-size:14px;font-family:monospace;display: inline-block;text-align: center;width:19.5%;padding: 0px;border-bottom:0px">
+            Optimal Value $V^*$<br><span style="color:#97999c; font-weight: 200;font-style: italic;">AND</span><br> High-Performing Goal-Reaching Agents
+            </td>
+        </tr>
+        </table>
+    </div>
 
 1. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
-    **Tongzhou Wang**, Phillip Isola    
+    **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom: 0"}
 
     <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" style="width:97%;margin-top:2.5%">
