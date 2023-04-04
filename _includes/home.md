@@ -99,7 +99,7 @@ See below for open source code for my researches.
 
     ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
 
-2. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[ICML 2017 AutoML Workshop Oral](./automl_17/slides.pdf)] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
+2. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[ICML 2017 AutoML Workshop Oral](./automl_17/slides.pdf){: .small__tt}] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
     **Tongzhou Wang**, Yi Wu, David A. Moore, Stuart J. Russell
 
     ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="width:100%;"}
