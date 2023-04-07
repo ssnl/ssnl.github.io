@@ -432,7 +432,7 @@ Quasimetric models are thus perfect choices for parametrizing the optimal goal-r
 
 <div style="text-align: justify;font-size: 16px;max-width:97.5%">
 Our work instead designs a <span style="font-weight: bold;">new RL algorithm specifically for quasimetric models</span>, which is called <span style="font-weight: bold;">Quasimetric Reinforcement Learning (QRL)</span>.  In contrast with other RL approaches, QRL directly <span style="font-weight:bold">learns the optimal value function $V^*$</span> (without policy iteration or temporal-difference learning). <lu>
-  <li style="margin-left: 30px;"> QRL uses a <span style="text-decoration: underline;">quasimetric model </span> $d_\theta$ to parametrize $-V^*$, restricting the search space to quasimetrics that satisfies <span style="text-decoration: underline;">triangle-inequality</span>
+  <li style="margin-left: 30px;"> QRL uses a <span style="text-decoration: underline;">quasimetric model</span> $d_\theta$ to parametrize $-V^*$, restricting search space to quasimetrics that satisfies <span style="text-decoration: underline;">triangle-inequality</span>
   </li>
   <li style="margin-left: 30px;"> QRL enforces that $V^*$ <span style="text-decoration: underline;">accurately capture the local transition costs/distances</span>: $$\forall\ \mathsf{transition}\ (s, a, s', \mathsf{cost}),\quad V^*(s; s') = -\mathsf{cost}
   \tag{$\mathsf{reward} = - \mathsf{cost}$}$$
