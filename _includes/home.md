@@ -17,7 +17,7 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
 1. [PyTorch](https://pytorch.org/) core developer (2017 - 2019; team size <10). Data loading, CUDA/CPU kernels, API design, autograd optimization, ML ops, Python binding, etc.
 2. [`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020). One of the earliest PyTorch toolkits for re-parametrizing neural networks, e.g., for hyper-nets and meta-learning.
 3. [`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now). PyTorch toolkit for SOTA [quasimetric learning](./interval_quasimetric_embedding).
-4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now). 18.9k stars.
+4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now). 19.6k stars.
 
 See below for open source code for my researches.
 
@@ -38,7 +38,7 @@ See below for open source code for my researches.
             </td><td style="font-size:1.25em;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:33%;padding: 0px;border-bottom:0px;"><div style="padding-bottom: 3px" >
             <video src="https://user-images.githubusercontent.com/5674597/229619483-4e565dee-7b69-45a6-8f81-f21647f0df71.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video></div>
             A Novel Objective<br>
-            <div style="font-size: 0.72em;padding:0px;padding-top: 0px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
+            <div style="font-size: 0.67em;padding:0px;padding-top: 0px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">start state</span> and <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while maintaining local distances)</div>
             </td><td style="font-size:2.9em;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
             =
             </td><td style="font-size:1.2em;font-family:monospace;display: inline-block;text-align: center;width:22%;padding: 0px;border-bottom:0px">
