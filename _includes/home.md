@@ -1,11 +1,11 @@
-I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on machine learning.
-My current focuses are **enabling efficient, adaptive and general agents via representations with geometric structures**. I am broadly interested in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning in general.
+I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on machine learning.
+My current focuses are **efficient, adaptive and general agents via structures and representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning in general.
 {: style="text-align: justify"}
 
 I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
 {: style="text-align: justify"}
 
-Before joining MIT, I worked at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) on [PyTorch](https://pytorch.org/) (2017-2019), and completed my undergraduted studies at UC Berkeley (2013-2017), where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color}.
+Before joining MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019), and completed my undergraduted studies at UC Berkeley (2013-2017), where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color}.
 {: style="text-align: justify;"}
 
 At MIT, I helped develop the [6.S898 Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
