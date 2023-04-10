@@ -1,5 +1,5 @@
 I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on machine learning.
-My current focuses are **efficient, adaptive and general agents via structures and representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning in general.
+My current focuses are **efficient, adaptive and general agents via structured representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning in general.
 {: style="text-align: justify"}
 
 I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
