@@ -12,9 +12,9 @@ At MIT, I helped develop the [6.S898 Deep Learning](https://phillipi.github.io/6
 
 Click [here](./assets/docs/about/cv.pdf) for my CV.
 
-## Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&label=%40ssnl%20Stars){: style="height: 0.87em;vertical-align:baseline"}</a>
+## Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 0.87em;vertical-align:baseline"}</a>
 
-1. **[PyTorch](https://pytorch.org/) core developer (2017 - 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)</a><br/> 
+1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen) 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red) 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)</a><br/>
     Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc. 
     {: style="margin-bottom: 0"}
 
