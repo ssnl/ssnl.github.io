@@ -1,23 +1,34 @@
 I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) on machine learning.
-My current focuses are **efficient, adaptive and general agents via structured representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning in general.
+My current focuses are **efficient, adaptive and general agents via structured representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/), and machine learning.
 {: style="text-align: justify"}
 
-I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+During PhD, I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
 {: style="text-align: justify"}
 
-Before joining MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019), and completed my undergraduted studies at UC Berkeley (2013-2017), where I was fortunate to work with [Stuart J. Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color}.
+I was an early member of the [PyTorch](https://pytorch.org/) core team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019), and worked with [Stuart  Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color}  at UC Berkeley (2013-2017).
 {: style="text-align: justify;"}
 
 At MIT, I helped develop the [6.S898 Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
 
 Click [here](./assets/docs/about/cv.pdf) for my CV.
 
-## Open Source Projects
+## Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&label=%40ssnl%20Stars){: style="height: 0.87em;vertical-align:baseline"}</a>
 
-1. [PyTorch](https://pytorch.org/) core developer (2017 - 2019; team size <10). Data loading, CUDA/CPU kernels, API design, autograd optimization, ML ops, Python binding, etc.
-2. [`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020). One of the earliest PyTorch toolkits for re-parametrizing neural networks, e.g., for hyper-nets and meta-learning.
-3. [`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now). PyTorch toolkit for SOTA [quasimetric learning](./interval_quasimetric_embedding).
-4. [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now). 19.6k stars.
+1. **[PyTorch](https://pytorch.org/) core developer (2017 - 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)</a><br/> 
+    Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc. 
+    {: style="margin-bottom: 0"}
+
+2. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social)</a><br/>
+    One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).
+    {: style="margin-bottom: 0"}
+
+3. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social)</a><br/> 
+    PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).
+    {: style="margin-bottom: 0"}
+
+4. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social)</a>
+    {: style="margin-bottom: 0"}
+
 
 See below for open source code for my researches.
 
@@ -125,4 +136,3 @@ See below for open source code for my researches.
 
     ![light-field-synthesis-pipeline](/assets/images/punctuation_neg_ex.png){: style="max-height:7em;width:auto;"}
 -->
-
