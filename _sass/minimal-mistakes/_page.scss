@@ -78,12 +78,13 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  li, dl {
     font-size: 0.85em;
   }
 
   /* paragraph indents */
   p {
+    font-size: 0.77em;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
