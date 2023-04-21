@@ -28,7 +28,7 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
     {: style="margin-bottom: 0"}
 
 4. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social)</a>
-    {: style="margin-bottom: 0"}
+    {: style="margin-bottom: -0.7em"}
 
 
 See below for open source code for my researches.

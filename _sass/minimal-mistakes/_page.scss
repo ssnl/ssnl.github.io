@@ -67,6 +67,21 @@
   font-size: $type-size-4;
 }
 
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+/**
+ * Firefox specific rule
+ */
+@-moz-document url-prefix() {
+  .page__content {
+    font-weight: normal !important;
+  }
+}
+
 .page__content {
 
   ol {
@@ -76,10 +91,6 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
-  }
-
-  li, dl {
-    font-size: 0.85em;
   }
 
   /* paragraph indents */
@@ -95,6 +106,14 @@
       }
     }
   }
+
+  li, dl {
+    font-size: 0.85em !important;
+    p {
+       font-size: 0.83em !important;
+    }
+  }
+
 
   .small__tt {
     font-size: 0.8em;
