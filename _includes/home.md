@@ -19,20 +19,20 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
     Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc. 
     {: style="margin-bottom: 0"}
 
+2. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social)</a>
+    {: style="margin-bottom: 0"}
+
 2. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social)</a><br/>
     One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).
     {: style="margin-bottom: 0"}
 
 3. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social)</a><br/> 
     PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).
-    {: style="margin-bottom: 0"}
-
-4. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social)</a>
-    {: style="margin-bottom: -0.7em"}
+    {: style="margin-bottom: -0.65em"}
 
 
 See below for open source code for my researches.
-{: style="font-size:0.75em"}
+{: style="font-size:0.75em;margin-bottom: -0.35em"}
 
 ## Selected Publications
 
