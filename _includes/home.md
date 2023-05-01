@@ -1,5 +1,5 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
-My current focus is building **efficient, adaptive and general agents via structured representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, and [dataset distillation](https://www.tongzhouwang.info/dataset_distillation/).
+My current focus is building **efficient, adaptive and general agents via structured representations**. Broadly, my research interests are in representation learning, reinforcement learning, synthetic training data, and [dataset distillation](./dataset_distillation/).
 {: style="text-align: justify"}
 
 During PhD, I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
@@ -26,10 +26,13 @@ Click [here](./assets/docs/about/cv.pdf) for my CV.
     One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).
     {: style="margin-bottom: 0"}
 
+4. **[`Awesome-Dataset-Distillation`](https://github.com/Guang000/Awesome-Dataset-Distillation) maintainer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/Guang000/Awesome-Dataset-Distillation">![GitHub Repo stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social)</a><br/> 
+    Collection of [Dataset Distillation](./dataset_distillation) papers in machine learning and vision conferences.
+    {: style="margin-bottom: 0em"}
+
 3. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social)</a><br/> 
     PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).
     {: style="margin-bottom: -0.65em"}
-
 
 See below for open source code for my researches.
 {: style="font-size:0.75em;margin-bottom: -0.35em"}
