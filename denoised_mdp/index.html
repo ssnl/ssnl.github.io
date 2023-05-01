@@ -24,6 +24,7 @@ ga('send', 'pageview');
 var _POPUP_FEATURES = 'width=500,height=300,resizable=1,scrollbars=1,titlebar=1,status=1';
 </script>
 <link media="all" href="glab.css" type="text/css" rel="StyleSheet">
+<link rel="stylesheet" href="../assets/fontawesome/css/all.min.css">
 <style type="text/css" media="all">
 IMG {
   PADDING-RIGHT: 0px;
@@ -255,7 +256,13 @@ BODY {
           <span style="font-size:26px;margin:5px;margin-left:50px">Code:</span>
         </td>
         <td style="font-size:20px;margin:20px;font-family:monospace">
-          <a style="margin:2px" href="https://github.com/facebookresearch/denoised_mdp">[GitHub]</a>
+          <a style="margin:2px" href="https://github.com/facebookresearch/denoised_mdp">[GitHub<i class="fa fa-fw fa-brands fa-github" aria-hidden="true"></i>]</a>
+        </td>
+        <td>
+          <span style="font-size:26px;margin:5px;margin-left:50px">Tweets:</span>
+        </td>
+        <td style="font-size:20px;margin:20px;font-family:monospace">
+          <a style="margin:2px" href="https://twitter.com/TongzhouWang/status/1542693853525938177?s=20">[Thread&#129525;]</a>
         </td>
       </tr>
     </table>
@@ -459,7 +466,7 @@ TIA signal latent fails to ignore camera movements. Denoised MDP correctly finds
         </p>
 
         <h2>Citation</h2>
-        <p>Tongzhou Wang, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian. "Denoised MDPs: Learning World Models Better Than The World Itself" <em>International Conference on Machine Learning (ICML)</em>. 2022.
+        <p>Tongzhou Wang, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian. "Denoised MDPs: Learning World Models Better Than The World Itself" <em style="font-weight:normal;">International Conference on Machine Learning (ICML)</em>. 2022.
         </p>
         <h2>Code:<span style="font-family:monospace;font-size:20px;margin:5px;position:relative;bottom:2px">
             <a style="font-weight:normal;" href="https://github.com/facebookresearch/denoised_mdp">[GitHub]</a>
@@ -472,8 +479,13 @@ TIA signal latent fails to ignore camera movements. Denoised MDP correctly finds
 <br>
 
 <h3 style="margin-top: -1.6em;text-align:left"><code style="font-size: 15pt">bibtex</code> <span style="font-size: 14.5pt">entry</span></h3>
-<div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;padding-right: 4em">
-<pre style="font-size: 10pt; margin: .3em 0px;text-align: left">
+ <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;max-width:100%">
+ <pre style="font-size: 10pt; margin: .3em 0px;text-align: left;
+     white-space: pre-wrap;       /* Since CSS 2.1 */
+     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+     white-space: -pre-wrap;      /* Opera 4-6 */
+     white-space: -o-pre-wrap;    /* Opera 7 */
+     word-wrap: break-word;       /* Internet Explorer 5.5+ */">
 @inproceedings{tongzhouw2022denoisedmdps,
   title={Denoised MDPs: Learning World Models Better Than The World Itself},
   author={Wang, Tongzhou and Du, Simon S. and Torralba, Antonio and Isola, Phillip and Zhang, Amy and Tian, Yuandong},

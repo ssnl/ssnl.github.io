@@ -31,6 +31,7 @@ MathJax = {
 var _POPUP_FEATURES = 'width=500,height=300,resizable=1,scrollbars=1,titlebar=1,status=1';
 </script>
 <link media="all" href="glab.css" type="text/css" rel="StyleSheet">
+<link rel="stylesheet" href="../assets/fontawesome/css/all.min.css">
 <style type="text/css" media="all">
 IMG {
 	PADDING-RIGHT: 0px;
@@ -217,7 +218,7 @@ BODY {
     </div>
     <div width="1"></div>
     <div>
-      <center>
+a      <center>
         <a href="https://web.mit.edu/phillipi/" style="font-size: larger">Phillip Isola</a>
       </center>
       <center>
@@ -244,7 +245,7 @@ BODY {
     PMLR Proceedings -->
 </h3>
 
-<div class="table-like" style="justify-content:space-evenly;max-width:900px;margin:auto;margin-top:10px">
+<div class="table-like" style="justify-content:space-evenly;max-width:900px;margin:auto;margin-top:10px;margin-bottom:5px">
   <center>
     <table>
       <tr>
@@ -263,6 +264,15 @@ BODY {
           [Code Coming Soon]
           </div>
           <!-- <a style="margin:2px" href="https://github.com/quasimetric-learning/quasimetric_rl/">[Code]</a> -->
+        </td>
+        <td style="padding-left:60px">
+          <div width="2"></div>
+        </td>
+        <td style="font-size:20px;margin:20px;font-family:monospace">
+          <div style="margin:2px;height: 100%;display:flex;align-items: center;" href="javascript:void(0);">
+          <i class="fa fa-fw fa-brands fa-twitter" aria-hidden="true" style="font-size:2.5em; padding-right:5px;color:#1DA1F2"></i>
+           <a style="margin:2px" href="https://twitter.com/TongzhouWang/status/1643300703954165765?s=20">[Thread&#129525;]</a>
+          </div>
         </td>
       </tr>
     </table>
@@ -556,11 +566,11 @@ QRL outperforms simply using quasimetric models (MRN or IQE) in DDPG, suggesting
       <span>
         <h2>Paper</h2>
         <p>
-          <a href="https://arxiv.org/abs/2304.01203">arXiv</a> 2023.
+          ICML 2023. <a href="https://arxiv.org/abs/2304.01203">arXiv 2304.01203</a>.
         </p>
 
         <h2>Citation</h2>
-        <p>Tongzhou Wang, Antonio Torralba, Phillip Isola, Amy Zhang. "Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning" <br><em>arXiv 2304.01203</em>. 2023.
+        <p>Tongzhou Wang, Antonio Torralba, Phillip Isola, Amy Zhang. "Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning" <br><em style="font-weight:normal;">International Conference on Machine Learning (ICML)</em>. 2023.
         </p>
         <!-- <h2>Code:<span style="font-family:monospace;font-size:21px;margin:5px;position:relative;bottom:2px">
             <a style="font-weight:normal;" href="https://github.com/quasimetric-learning/torch-quasimetric">[PyTorch Package of SOTA Quasimetric Learning Methods]</a>
@@ -572,12 +582,19 @@ QRL outperforms simply using quasimetric models (MRN or IQE) in DDPG, suggesting
 </table>
 
 <h3 style="margin-top: -1.6em;text-align:left"><code style="font-size: 15pt">bibtex</code> <span style="font-size: 14.5pt">entry</span></h3>
-<div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em 0.2em 0em;padding-right: 4em;width: calc(100% - 4.9em)">
-<pre style="font-size: 10pt; margin: .3em 10px;text-align: left">
-@article{tongzhouw2023qrl,
+<div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;max-width:
+ 100%">
+<pre style="font-size: 10pt; margin: .3em 0px;text-align: left;
+      white-space: pre-wrap;       /* Since CSS 2.1 */
+      white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+      white-space: -pre-wrap;      /* Opera 4-6 */
+      white-space: -o-pre-wrap;    /* Opera 7 */
+      word-wrap: break-word;       /* Internet Explorer 5.5+ */">
+@inproceedings{tongzhouw2023qrl,
   title={Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning},
   author={Wang, Tongzhou and Torralba, Antonio and Isola, Phillip and Zhang, Amy},
-  journal={arXiv preprint arXiv:2304.01203},
+  booktitle={International Conference on Machine Learning},
+  organization={PMLR},
   year={2023}
 }
 </pre>
