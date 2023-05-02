@@ -1,7 +1,7 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 My research focuses on the **structures of learned intelligence:**
 {: style="text-align: justify; margin-bottom:3px"}
- + Understand how learning algorithms use structures/signals in data to produce models/decisions.
+ + Understand how learning algorithms rely structures/signals in data to produce models.
    <p style="margin-bottom:-7px"></p>
  + Improve efficiency and generality of learned perception & reasoning by incorporating new useful structures.
 {: style="text-align: justify;padding-left:30px;margin-top:0px;margin-bottom:3px;font-size:0.885em"}
