@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Tongzhou Wang"
   avatar           : "/assets/images/profile_cat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Structures & AI"
+  bio              : "Structures, ML, AI"
   location         : "Cambridge, MA, US"
   email            :
   uri              :
