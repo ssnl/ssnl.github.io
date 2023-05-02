@@ -3,7 +3,7 @@ My research focuses on the **structures of learned intelligence:**
 {: style="text-align: justify; margin-bottom:3px"}
  + Understand how learning algorithms use structures/signals in data to produce models/decisions.
    <p style="margin-bottom:-7px"></p>
- + Incorporate new structures in learned perception & reasoning for more efficient and general agents.
+ + Improve efficiency and generality of learned perception & reasoning by incorporating new useful structures.
 {: style="text-align: justify;padding-left:30px;margin-top:0px;margin-bottom:3px;font-size:0.885em"}
 
 Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).
