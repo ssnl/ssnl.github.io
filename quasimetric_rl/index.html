@@ -260,7 +260,7 @@ BODY {
         </td>
         <td style="font-size:20px;margin:20px;font-family:monospace">
           <div style="margin:2px;height: 100%;display:flex;align-items: center;" href="javascript:void(0);">
-          <img style="float: left; max-width: 120%;padding-right: 10px;" alt="paper thumbnail" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=60>
+          <img style="float: left; max-width: 120%;padding-right: 10px;" alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=60>
           [Code Coming Soon]
           </div>
           <!-- <a style="margin:2px" href="https://github.com/quasimetric-learning/quasimetric_rl/">[Code]</a> -->
@@ -445,17 +445,38 @@ Quasimetric models are thus perfect choices for parametrizing the optimal goal-r
 Our work instead designs a <span style="font-weight: bold;">new RL algorithm specifically for quasimetric models</span>, which is called <span style="font-weight: bold;">Quasimetric Reinforcement Learning (QRL)</span>.  In contrast with other RL approaches, QRL directly <span style="font-weight:bold">learns the optimal value function $V^*$</span> (without policy iteration or temporal-difference learning). <lu>
   <li style="margin-left: 30px;"> QRL uses a <span style="text-decoration: underline;">quasimetric model</span> $d_\theta$ to parametrize $-V^*$, restricting search space to quasimetrics that satisfies <span style="text-decoration: underline;">triangle-inequality</span>
   </li>
-  <li style="margin-left: 30px;"> QRL enforces that $V^*$ <span style="text-decoration: underline;">accurately capture the local transition costs/distances</span>: $$\forall\ \mathsf{transition}\ (s, a, s', \mathsf{cost}),\quad V^*(s; s') = -\mathsf{cost}
-  \tag{$\mathsf{reward} = - \mathsf{cost}$}$$
+  <li style="margin-left: 30px;"> QRL enforces that $d_\theta$ <span style="text-decoration: underline;">respects the observed local transition costs/distances</span>: $$\forall\ \mathsf{transition}\ (s, a, s', \mathsf{cost}),\quad
+    {\color{gray}
+    \underbrace{\color{black}
+    d_\theta(s; s')
+    }_{\llap{\mathsf{should\ model\ }V^*(s; s') = \mathsf{tota}}\rlap{\mathsf{l\ cost\ of\ best\ path\ }s \mathsf{\ to\ }s'}}
+    }
+    \leq
+    {\color{gray}
+    \overbrace{\color{black}
+    \mathsf{cost}
+    }^{\llap{\mathsf{total\ c}}\rlap{\mathsf{ost\ of\ the\ specific\ path\ }s\ \xrightarrow{\mathsf{action}\ a}\ s'}}
+    }
+  \tag{consistent with local costs}$$
   </li>
-  <li style="margin-left: 30px;"> <span style="text-decoration: underline;">Subject to the above constraint</span>, QRL <span style="text-decoration: underline;">maximally pushes apart the estimated distance/cost between any two states</span>: $$\max_{V^*} \mathbb{E}_{\mathsf{random}\ s_0, s_1} [-V^*(s_0; s_1)]
-  \tag{$-V^* \textsf{ estimates the cost/distance}$}$$
+  <li style="margin-left: 30px;"> <span style="text-decoration: underline;">Subject to the above constraint</span>, QRL <span style="text-decoration: underline;">maximally pushes apart the estimated distance/cost between any two states</span>: $$\max_{\theta} \mathbb{E}_{\mathsf{random}\ s_0,s_1} [d_\theta(s_0, s_1)]
+  \tag{maximize for global costs}$$
 </lu>
 </div>
 
 <div style="text-align: justify;font-size: 16px;max-width:97.5%">
 In summary, QRL optimizes the following objective:$$
-    \max_{\theta}~\mathbb{E}_{\substack{s\sim p_\mathsf{state}\\g \sim p_\mathsf{goal}}}[ d_\theta(s, g) ] \qquad \text{subject to }\ \mathbb{E}_{\substack{(s, a, s') \sim p_\mathsf{transition}}}[ (\underbrace{d_\theta(s, s') - 1}_{\llap{\textsf{assume constant cost for}}\rlap{\textsf{ simplicity (can be relaxed)}}})^2] \leq\overbrace{\epsilon^2}^{\llap{\epsilon\textsf{ is a }}\rlap{\textsf{small positive constant}}}  \tag{QRL}
+\max_{\theta}~\mathbb{E}_{\substack{s\sim p_\mathsf{state}\\g \sim p_\mathsf{goal}}}[ d_\theta(s, g) ] \qquad \text{subject to }\ \mathbb{E}_{\substack{(s, a, s', \mathsf{cost}) \sim p_\mathsf{transition}}}[ \mathtt{relu}(
+{\color{gray}
+\underbrace{\color{black}
+d_\theta(s, s') - \mathsf{cost}
+}_{\llap{\textsf{assume constant cost for}}\rlap{\textsf{ simplicity (can be relaxed)}}}
+})^2] \leq
+{\color{gray}
+\overbrace{\color{black}
+\epsilon^2
+}^{\llap{\epsilon\textsf{ is a }}\rlap{\textsf{small positive constant}}}
+}\tag{QRL}
 $$
 </div>
 
@@ -538,7 +559,7 @@ QRL outperforms SOTA offline RL methods, a trajectory modelling method, and Cont
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="bottom" style="overflow:hidden;padding-top:8px">
-        <img class="result" src="assets/images/online_final_arXiv.png" style="width: 97.5%">
+        <img class="result" src="assets/images/online_final_LE_arXiv.png" style="width: 97.5%">
     </td>
   </tr>
 </table>
