@@ -22,7 +22,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core te
 
 At MIT, I helped develop the [6.S898 Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
 
-Click [here](./assets/docs/about/cv.pdf) for my CV.
+**Click [here](./assets/docs/about/cv.pdf) for my CV.**
 
 ## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 1.1em;vertical-align:baseline"}</a>
 
