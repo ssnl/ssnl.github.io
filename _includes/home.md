@@ -1,6 +1,6 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
-Research focus: **structures in machine learning and artificial agents**: invariance, abstraction, distance, factorization, redundancy, etc.
+**Research focus: structures in machine learning and artificial agents**: invariance, abstraction, distance, factorization, redundancy, etc.
  {: style="text-align: justify; margin-bottom:3px"}
  + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Geometric structures of learned representations.
    <p style="margin-bottom:-7.5px"></p>
