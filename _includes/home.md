@@ -1,12 +1,12 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
-Reserach focus: **structures in machine learning and artificial agents**: invariance, abstraction, distance, factorization, redundancy, etc.
+Research focus: **structures in machine learning and artificial agents**: invariance, abstraction, distance, factorization, redundancy, etc.
  {: style="text-align: justify; margin-bottom:3px"}
- + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:26px;text-align:center" aria-hidden="true" /> Geometric structures of learned representations.
+ + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Geometric structures of learned representations.
    <p style="margin-bottom:-7.5px"></p>
- + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:26px;text-align:center" aria-hidden="true" /> Geometric structures for more efficient and general agents.
+ + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Geometric structures for efficient and general agents.
    <p style="margin-bottom:-7.5px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:26px;text-align:center" aria-hidden="true" /> Understanding training data via structured synthetic data.
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Understanding training data via structured synthetic data.
    <p style="margin-bottom:-7.5px"></p>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.885em;list-style-type: none;"}
@@ -24,24 +24,24 @@ At MIT, I helped develop the [6.S898 Deep Learning](https://phillipi.github.io/6
 
 Click [here](./assets/docs/about/cv.pdf) for my CV.
 
-## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 0.87em;vertical-align:baseline"}</a>
+## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 1.1em;vertical-align:baseline"}</a>
 
-1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen) 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red) 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)</a><br/>
+1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen){: style="height:1.3em"} 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red){: style="height:1.3em"} 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social){: style="height:1.3em"}</a><br/>
     Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc.
    {: style="margin-bottom: -0.1em"}
 
-2. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social)</a>
+2. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social){: style="height:1.3em"}</a>
     {: style="margin-bottom: -0.1em"}
 
-3. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social)</a><br/>
+3. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social){: style="height:1.3em"}</a><br/>
     One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).
     {: style="margin-bottom: -0.1em"}
 
-4. **[`Awesome-Dataset-Distillation`](https://github.com/Guang000/Awesome-Dataset-Distillation) maintainer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/Guang000/Awesome-Dataset-Distillation">![GitHub Repo stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social)</a><br/>
+4. **[`Awesome-Dataset-Distillation`](https://github.com/Guang000/Awesome-Dataset-Distillation) maintainer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/Guang000/Awesome-Dataset-Distillation">![GitHub Repo stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social){: style="height:1.3em"}</a><br/>
     Collection of [Dataset Distillation](./dataset_distillation) papers in machine learning and vision conferences.
     {: style="margin-bottom: 0em"}
 
-5. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social)</a><br/>
+5. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social){: style="height:1.3em"}</a><br/>
     PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).
     {: style="margin-bottom: -0.65em"}
 {: style="text-align: justify;padding-left:20px;list-style-type: circle;"}
@@ -119,12 +119,12 @@ See below for open source code for my researches.
     **Tongzhou Wang**, Phillip Isola
 
     <div style="display: flex; width: 100%;margin-top: -0.5em">
-    <div style="width:100%; height: 260px; display:flex">
-        <div style="width:310px;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left">
+    <div style="width:100%; height: 260px; display:inline-table">
+        <span style="width:310px;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left;display:inline-block">
             <img style="max-width:100%;max-height:100%;" src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
-        </div>
-        <div style="width:3.2%"></div>
-        <div style="width:calc(100% - 3% - 240px);border-bottom: 0px;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;display:contents;font-size:0.85em">
+        </span>
+        <span style="width:3.2%"></span>
+        <span style="width:calc(100% - 3% - 240px);border-bottom: 0px;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;display:contents;font-size:0.85em">
             <div style="font-size: 0.735em;display: inline-block;text-align:left;padding-bottom:1.05em;max-width:100%;max-height:100%;align-self:flex-end" >
               <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em">
         <pre style="margin: 0; line-height: 160%">
@@ -141,7 +141,7 @@ See below for open source code for my researches.
       </div>
               <div style="text-align: center; font-size: 1.35em"><a href='https://github.com/SsnL/align_uniform'>PyTorch implementation</a> of the alignment and uniformity losses</div>
             </div>
-        </div>
+        </span>
       </div>
     </div>
 
