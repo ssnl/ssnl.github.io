@@ -1,6 +1,7 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
-**Research focus: structures in machine learning and artificial agents**: invariance, abstraction, distance, factorization, redundancy, etc.
+**My research focus: structures in machine learning and artificial agents** 
+(such as invariance, abstraction, distance, factorization, redundancy)
  {: style="text-align: justify; margin-bottom:3px"}
  + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Geometric structures of learned representations.
    <p style="margin-bottom:-7.5px"></p>
@@ -14,13 +15,17 @@ I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) w
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 {: style="text-align: justify"}
 
-During PhD, I have spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/). I also collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
-{: style="text-align: justify"}
+During PhD, I 
++ Spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/).
+  <p style="margin-bottom:-7.5px"></p>
++ Collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+  <p style="margin-bottom:-7.5px"></p>
++ Helped develop MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
+  <p style="margin-bottom:-7.5px"></p>
+{: style="text-align: justify;padding-left:2em;margin-top:-0.8em;font-size:0.885em;"}
 
 Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research with [Stuart  Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and image generative models.
 {: style="text-align: justify;"}
-
-At MIT, I helped develop the [6.S898 Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
 
 **Click [here](./assets/docs/about/cv.pdf) for my CV.**
 
