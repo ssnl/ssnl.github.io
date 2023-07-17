@@ -1,28 +1,28 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
-**My research focus: structures in machine learning and artificial agents** 
+**Research focus: structures in machine learning and artificial agents** 
 (such as invariance, abstraction, distance, factorization, redundancy)
  {: style="text-align: justify; margin-bottom:3px"}
- + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Geometric structures of learned representations.
-   <p style="margin-bottom:-7.5px"></p>
- + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Geometric structures for efficient and general agents.
-   <p style="margin-bottom:-7.5px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Understanding training data via structured synthetic data.
-   <p style="margin-bottom:-7.5px"></p>
+ + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **of** learned representations.
+   <p style="margin-bottom:-7px"></p>
+ + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for** efficient and general agents.
+   <p style="margin-bottom:-7px"></p>
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **needed in** learning via the lens of synthetic data.
+   <p style="margin-bottom:-7px"></p>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
-{: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.885em;list-style-type: none;"}
+{: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 {: style="text-align: justify"}
 
-During PhD, I 
+During my PhD, I have 
 + Spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/).
-  <p style="margin-bottom:-7.5px"></p>
-+ Collaborate with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
-  <p style="margin-bottom:-7.5px"></p>
+  <p style="margin-bottom:-7px"></p>
++ Been collaborating with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+  <p style="margin-bottom:-7px"></p>
 + Helped develop MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
-  <p style="margin-bottom:-7.5px"></p>
-{: style="text-align: justify;padding-left:2em;margin-top:-0.8em;font-size:0.885em;"}
+  <p style="margin-bottom:-7px"></p>
+{: style="text-align: justify;padding-left:2em;margin-top:-0.8em;font-size:0.875em;"}
 
 Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research with [Stuart  Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and image generative models.
 {: style="text-align: justify;"}
@@ -57,16 +57,16 @@ See below for open source code for my researches.
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
 {: style="margin-bottom:0.05em"}
 
-<table style="font-size:0.725em">
+<table style="font-size:0.68em;letter-spacing:-0.03em">
     <tr>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3">
-            <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;" aria-hidden="true"></i> Geometric structures of representations
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:29%">
+            <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;" aria-hidden="true"></i> Structure of representations
         </td>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3">
-            <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;" aria-hidden="true"></i> Efficient and general agents
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:36%">
+            <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;" aria-hidden="true"></i> Structure for efficeint & general agents
         </td>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3">
-            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true"></i> Synthetic data
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:35%">
+            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true"></i> Structure in learning via synthetic data
         </td>
     </tr>
 </table>
@@ -162,6 +162,7 @@ See below for open source code for my researches.
 
 3. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
     Pratul Srinivasan, **Tongzhou Wang**, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
+
     ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="width:100%;"}
 {: style="text-align: justify;padding-left:20px;list-style-type: square;"}
 
