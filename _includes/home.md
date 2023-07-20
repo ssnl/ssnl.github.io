@@ -29,7 +29,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core te
 
 **Click [here](./assets/docs/about/cv.pdf) for my CV.**
 
-## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 1.1em;vertical-align:baseline"}</a>
+## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 1em;vertical-align:baseline"}</a>
 
 1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen){: style="height:1.3em"} 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red){: style="height:1.3em"} 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social){: style="height:1.3em"}</a><br/>
     Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc.
