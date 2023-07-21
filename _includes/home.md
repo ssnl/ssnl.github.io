@@ -27,7 +27,7 @@ During my PhD, I have
 Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research with [Stuart  Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and image generative models.
 {: style="text-align: justify;"}
 
-**Pro bono office hour:** Inspired by Wei-Chiu Ma, I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill in [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
+**Pro bono office hour:** Inspired by Wei-Chiu Ma, I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
 
 **Click [here](./assets/docs/about/cv.pdf) for my CV.**
 
