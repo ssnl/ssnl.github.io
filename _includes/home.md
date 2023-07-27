@@ -7,7 +7,7 @@ I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) w
    <p style="margin-bottom:-7px"></p>
  + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for** efficient and general agents.
    <p style="margin-bottom:-7px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **needed in** learning, analyzed via synthetic data.
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures of datasets **in** learning, analyzed via synthetic data.
    <p style="margin-bottom:-7px"></p>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;"}
@@ -59,16 +59,16 @@ See below for open source code for my researches.
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
 {: style="margin-bottom:0.05em"}
 
-<table style="font-size:0.68em;letter-spacing:-0.03em">
+<table style="font-size:0.72em;letter-spacing:-0.03em">
     <tr>
-        <td style="padding-left:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:27%">
+        <td style="padding-left:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:32%">
             <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;margin-right:0.2em" aria-hidden="true"></i>Structure of representations
         </td>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:36%">
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:38%">
             <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;margin-right:0.2em" aria-hidden="true"></i>Structure for efficeint & general agents
         </td>
-        <td style="padding-right:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:37%">
-            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.2em" aria-hidden="true"></i>Synthetic data to probe structure in learning
+        <td style="padding-right:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:33%">
+            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.2em" aria-hidden="true"></i>Structure of dataset in learning
         </td>
     </tr>
 </table>
