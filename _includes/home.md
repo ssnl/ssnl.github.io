@@ -15,6 +15,8 @@ I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) w
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 {: style="text-align: justify"}
 
+**I am on the 2023-2024 faculty job market.**
+
 During my PhD, I have 
 + Spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/).
   <p style="margin-bottom:-7px"></p>
