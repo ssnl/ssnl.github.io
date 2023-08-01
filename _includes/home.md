@@ -6,7 +6,7 @@ My research focuses on **structures in machine learning and artificial agents** 
    <p style="margin-bottom:-7px"></p>
  + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for** efficient and general agents.
    <p style="margin-bottom:-7px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures of datasets **in** learning.
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures of datasets **in** learning, <span style="color:gray">which we analyze via structured <em>synthetic</em> data.<span>
    <p style="margin-bottom:-7px"></p>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;"}
@@ -54,21 +54,9 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
 {: style="margin-bottom:-0.05em"}
 
-<table style="font-size:0.79em;letter-spacing:-0.03em;max-width:900px;">
-    <tr>
-        <td style="padding-left:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:31%">
-            <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;margin-right:0.25em" aria-hidden="true"></i>Structure of representations
-        </td>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:35%">
-            <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;margin-right:0.25em" aria-hidden="true"></i>Structure for better agents
-        </td>
-        <td style="padding-right:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:32%">
-            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.25em" aria-hidden="true"></i>Structure of dataset in learning
-        </td>
-    </tr>
-</table>
 
-1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2023**{: .colorful}</span>][[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
+
+<!-- 1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2023**{: .colorful}</span>][[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
     **Tongzhou Wang**, Antonio Torralba, Phillip Isola, Amy Zhang
     {: style="margin-bottom:-0.35em"}
 
@@ -93,7 +81,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
         </table>
     </div>
 
-2. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true" />)<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
+1. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true" />)<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom:-0.35em"}
 
@@ -101,7 +89,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
     <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.55em">
     </div>
 
-3. **Denoised MDPs: Learning World Models Better Than The World** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
+2. **Denoised MDPs: Learning World Models Better Than The World** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian
     {: style="margin-bottom:-0.35em"}
 
@@ -109,7 +97,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
     <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit hide__mobile" style="max-width:900px;width:115%;margin-top:-0.85em;margin-bottom:-0.75em;margin-left:-5%;position:sticky;z-index:-1">  </video>
     </div>
 
-4. **On the Learning and Learnability of Quasimetrics** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
+3. **On the Learning and Learnability of Quasimetrics** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom:-0.35em"}
 
@@ -117,7 +105,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
     <img src="./quasimetric/images/function_spaces_cropped.png" alt="quasimetric-function-spaces" class="hide__mobile" style="max-width:750px;width:100%">
     </div>
 
-5. **Learning to See by Looking at Noise** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true" />)<br />[<span class="small__tt">**NeurIPS 2021**{: .colorful}</span>] [[Project Page](https://mbaradad.github.io/learning_with_noise/){: .small__tt}] [[arXiv](https://arxiv.org/abs/2106.05963){: .small__tt}] [[code & datasets](https://github.com/mbaradad/learning_with_noise){: .small__tt}] <br />
+4. **Learning to See by Looking at Noise** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true" />)<br />[<span class="small__tt">**NeurIPS 2021**{: .colorful}</span>] [[Project Page](https://mbaradad.github.io/learning_with_noise/){: .small__tt}] [[arXiv](https://arxiv.org/abs/2106.05963){: .small__tt}] [[code & datasets](https://github.com/mbaradad/learning_with_noise){: .small__tt}] <br />
     Manel Baradad\*, Jonas Wulff\*, **Tongzhou Wang**, Phillip Isola, Antonio Torralba
     {: style="margin-bottom:-0.35em"}
 
@@ -125,7 +113,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
     <img src="https://mbaradad.github.io/learning_with_noise/images/teaser.jpeg" alt="learning-to-see-by-looking-at-noises" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.35em">
     </div>
 
-6. **<span style="letter-spacing:-0.25px">Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere</span>** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
+5. **<span style="letter-spacing:-0.25px">Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere</span>** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
     {: style="margin-bottom:-0.35em"}
 
@@ -178,7 +166,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
     <div>
     <img src="/assets/images/2d_to_4d_pipeline.png" alt="light-field-synthesis-pipeline" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.35em">
     </div>
-{: style="text-align: justify;padding-left:20px;list-style-type: square;"}
+{: style="text-align: justify;padding-left:20px;list-style-type: square;"} -->
 
 <!--
 ## Selected Projects

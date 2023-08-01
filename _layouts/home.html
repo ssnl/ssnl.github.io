@@ -5,6 +5,198 @@ layout: single
 <div class="page__content" style="width:100%">
 {% capture my_include %}{% include home.md %}{% endcapture %}
 {{ my_include | markdownify }}
+<table style="font-size:0.8em;letter-spacing:-0em;margin-bottom:0px">
+    <tr>
+        <td style="padding-left:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:34%">
+            <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;margin-right:0.25em" aria-hidden="true"></i>Structure of representations
+        </td>
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:35%">
+            <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;margin-right:0.25em" aria-hidden="true"></i>Structure for better agents
+        </td>
+        <td style="padding-right:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:29%">
+            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.25em" aria-hidden="true"></i>Structure of datasets
+        </td>
+    </tr>
+</table>
+<table class="pub__table" style="table-layout: fixed;">
+
+  <!-- QRL -->
+  <tr>
+    <td>
+      <div>
+      <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true"></i><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true"></i><br >
+      <strong>Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning</strong><br>[<span class="small__tt"><strong class="colorful">ICML 2023</strong></span>][<a href="./quasimetric_rl" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/2304.01203" class="small__tt">arXiv</a>] [<span class="small__tt">Code Coming Soon</span>] <br>
+      <strong>Tongzhou Wang</strong>, Antonio Torralba, Phillip Isola, Amy Zhang
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <div class="table-like" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:calc(0.35em + 5px);padding: 0px;">
+        <table style="max-width:750px;letter-spacing:-0.03em;">
+        <tbody>
+          <tr style="width: 100%;text-align: center;">
+            <td style="font-size:100%;font-family:monospace;display: inline-block;text-align: center;width:36%;padding: 0px;border-bottom:0px">
+            <img style="float: left; width: 100%;padding-bottom: 10px;" alt="paper thumbnail" src="./quasimetric_rl/assets/images/quasimetric_structure.png">
+            Quasimetric Geometry
+            </td><td style="font-size:280%;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
+            +
+            </td><td style="font-size:100%;font-family:monospace;display: inline-block;text-align: center;vertical-align: bottom;width:32%;padding: 0px;border-bottom:0px;"><div>
+            <video src="https://user-images.githubusercontent.com/5674597/229619483-4e565dee-7b69-45a6-8f81-f21647f0df71.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%;">  </video></div>
+            Novel Objective<br>
+            <div style="font-size: 75%;padding:0px;padding-top: 0px;">(Push apart <span style="color:rgb(217, 0, 0);font-weight: bold;">s_start</span> & <span style="color:rgb(217, 0, 0);font-weight: bold;">goal</span><br>while keeping local dists.)</div>
+            </td><td style="font-size:280%;font-family:monospace;display: inline-block;text-align: center;width:5%;padding: 0px;border-bottom:0px">
+            =
+            </td><td style="font-size:100%;font-family:monospace;display: inline-block;text-align: center;width:22%;padding: 0px;border-bottom:0px">
+            Optimal Value <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="0" style="font-size: 113.1%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D449 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: 0.363em; margin-left: 0.059em;"><mjx-mo class="mjx-n" size="s"><mjx-c class="mjx-c2217"></mjx-c></mjx-mo></mjx-script></mjx-msup></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>V</mi><mo>∗</mo></msup></math></mjx-assistive-mml></mjx-container><br><span style="color:#97999c; font-weight: 200;font-style: italic;">AND</span><br>High-Performing<br>Goal-Reaching Agents
+            </td>
+          </tr>
+        </tbody>
+        </table>
+      </div>
+    </td>
+  </tr>
+
+  <!-- IQE -->
+  <tr>
+    <td>
+      <div>
+      <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true"></i> <br >
+      <strong>Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings</strong><br>[<a href="https://www.neurreps.org/"><span class="small__tt"><strong class="colorful">NeurIPS 2022 NeurReps Workshop</strong></span></a>] [<a href="./interval_quasimetric_embedding" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/2211.15120" class="small__tt">arXiv</a>] [<a href="https://github.com/quasimetric-learning/torch-quasimetric" class="small__tt">PyTorch Package for Quasimetric Learning</a>] <br>
+ <strong>Tongzhou Wang</strong>, Phillip Isola
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+       <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.55em">
+    </td>
+  </tr>
+
+  <!-- Denoised MDPs -->
+  <tr>
+    <td>
+      <div>
+      <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true"></i><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true"></i><br >
+      <strong>Denoised MDPs: Learning World Models Better Than The World</strong><br>[<span class="small__tt"><strong class="colorful">ICML 2022</strong></span>] [<a href="./denoised_mdp" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/2206.15477" class="small__tt">arXiv</a>] [<a href="https://github.com/facebookresearch/denoised_mdp" class="small__tt">code</a>] <br>
+ <strong>Tongzhou Wang</strong>, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit hide__mobile" style="max-width:900px;width:115%;margin-top:-0.85em;margin-bottom:-0.75em;margin-left:-5%;position:sticky;z-index:-1">  </video>
+    </td>
+  </tr>
+
+  <!-- PQE -->
+  <tr>
+    <td>
+      <div>
+      <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true"></i><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true"></i><br >
+      <strong>On the Learning and Learnability of Quasimetrics</strong><br>[<span class="small__tt"><strong class="colorful">ICLR 2022</strong></span>] [<a href="/quasimetric" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/2206.15478" class="small__tt">arXiv</a>] [<a href="https://openreview.net/forum?id=y0VvIg25yk" class="small__tt">OpenReview</a>] [<a href="https://github.com/SsnL/poisson_quasimetric_embedding" class="small__tt">code</a>] <br>
+ <strong>Tongzhou Wang</strong>, Phillip Isola
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <img src="./quasimetric/images/function_spaces_cropped.png" alt="quasimetric-function-spaces" class="hide__mobile" style="max-width:750px;width:100%">
+    </td>
+  </tr>
+
+  <!-- Learning from Noise -->
+  <tr>
+    <td>
+      <div>
+      <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true"></i><i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true"></i><br >
+      <strong>Learning to See by Looking at Noise</strong><br>[<span class="small__tt"><strong class="colorful">NeurIPS 2021</strong></span>] [<a href="https://mbaradad.github.io/learning_with_noise/" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/2106.05963" class="small__tt">arXiv</a>] [<a href="https://github.com/mbaradad/learning_with_noise" class="small__tt">code &amp; datasets</a>] <br>
+ Manel Baradad*, Jonas Wulff*, <strong>Tongzhou Wang</strong>, Phillip Isola, Antonio Torralba
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <img src="https://mbaradad.github.io/learning_with_noise/images/teaser.jpeg" alt="learning-to-see-by-looking-at-noises" class="hide__mobile" style="max-width:750px;width:100%">
+    </td>
+  </tr>
+
+  <!-- Align Uniform -->
+  <tr>
+    <td>
+      <div>
+      <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true"></i> <br >
+      <strong><span style="letter-spacing:-0.25px">Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere</span></strong><br>[<span class="small__tt"><strong class="colorful">ICML 2020</strong></span>] [<a href="/hypersphere" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/2005.10242" class="small__tt">arXiv</a>] [<a href="https://github.com/SsnL/align_uniform" class="small__tt">code</a>] <br>
+ <strong>Tongzhou Wang</strong>, Phillip Isola
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+   <div style="max-width:750px;width:100%">
+ <div style="width:100%; display:inline-flex;margin-top:0.2em">
+    <span style="width:40%;border-bottom: 0px;padding:0px;margin-right:2%;vertical-align: bottom;text-align: left;display:inline-block">
+      <img style="max-width:100%;max-height:100%;" src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output">
+    </span>
+    <span style="width:58%;border-bottom: 0px;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;font-size:75%">
+      <div style="font-size: 53%;display: inline-block;text-align:left;padding-bottom:1.05em;width:100%;max-height:100%;margin-top:3.5%">
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em">
+    <pre style="margin: 0; line-height: 160%"><span style="color: #888888"># bsz : batch size (number of positive pairs)</span>
+<span style="color: #888888"># d   : latent dim</span>
+<span style="color: #888888"># x   : Tensor, shape=[bsz, d]</span>
+<span style="color: #888888">#       latents for one side of positive pairs</span>
+<span style="color: #888888"># y   : Tensor, shape=[bsz, d]</span>
+<span style="color: #888888">#       latents for the other side of positive pairs</span>
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">align_loss</span>(x, y, alpha<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">2</span>):
+<span style="color: #008800; font-weight: bold">  return</span> (x <span style="color: #333333">-</span> y)<span style="color: #333333">.</span>norm(p<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">2</span>, dim<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">1</span>)<span style="color: #333333">.</span>pow(alpha)<span style="color: #333333">.</span>mean()<br>
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">uniform_loss</span>(x, t<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">2</span>):
+<span style="color: #008800; font-weight: bold">  return</span> torch<span style="color: #333333">.</span>pdist(x, p<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">2</span>)<span style="color: #333333">.</span>pow(<span style="color: #0000DD; font-weight: bold">2</span>)<span style="color: #333333">.</span>mul(<span style="color: #333333">-</span>t)<span style="color: #333333">.</span>exp()<span style="color: #333333">.</span>mean()<span style="color: #333333">.</span>log()</pre>
+  </div>
+        <div style="text-align: center; font-size: 1.35em"><a href="https://github.com/SsnL/align_uniform">PyTorch implementation</a> of the alignment and uniformity losses</div>
+      </div>
+    </span>
+  </div>
+ </div>
+    </td>
+  </tr>
+
+  <!-- DD -->
+  <tr>
+    <td>
+      <div>
+      <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true"></i> <br >
+      <strong>Dataset Distillation</strong><br>[<a href="/dataset_distillation" class="small__tt">Project Page</a>] [<a href="https://arxiv.org/abs/1811.10959" class="small__tt">arXiv</a>] [<a href="https://github.com/SsnL/dataset-distillation" class="small__tt">code</a>]  [<a href="https://github.com/Guang000/Awesome-Dataset-Distillation" class="small__tt">DD Papers</a>] <br>
+ <strong>Tongzhou Wang</strong>, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <img src="/assets/images/dataset_distillation_fixed_mnist.png" alt="dataset_distillation_fixed_mnist" class="hide__mobile" style="max-width:750px;width:100%;">
+    </td>
+  </tr>
+
+  <!-- Meta-Learning MCMC -->
+  <tr>
+    <td>
+      <div>
+      <strong>Meta-Learning MCMC Proposals</strong><br>[<span class="small__tt"><strong class="colorful">NeurIPS 2018</strong></span>] [<span class="small__tt"><strong class="colorful">PROBPROG 2018</strong></span>] [<a href="./automl_17/slides.pdf" class="small__tt">ICML 2017 AutoML Workshop Oral</a>] [<a href="https://arxiv.org/abs/1708.06040" class="small__tt">arXiv</a>] <br>
+ <strong>Tongzhou Wang</strong>, Yi Wu, David A. Moore, Stuart J. Russell
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <img src="/assets/images/meta_learning_mcmc_gmm_trace.png" alt="meta_learning_mcmc_gmm_trace" class="hide__mobile" style="max-width:730px;width:100%;">
+    </td>
+  </tr>
+
+  <!-- 2D->4D -->
+  <tr>
+    <td>
+      <div>
+      <strong>Learning to Synthesize a 4D RGBD Light Field from a Single Image</strong><br>[<span class="small__tt"><strong class="colorful">ICCV 2017</strong></span>] [<a href="https://arxiv.org/abs/1708.03292" class="small__tt">arXiv</a>] <br>
+ Pratul Srinivasan, <strong>Tongzhou Wang</strong>, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
+      </div>
+    </td>
+
+    <td class="hide__mobile">
+      <img src="/assets/images/2d_to_4d_pipeline.png" alt="light-field-synthesis-pipeline" class="hide__mobile" style="max-width:750px;width:100%">
+    </td>
+  </tr>
+</table>
 </div>
 <!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
