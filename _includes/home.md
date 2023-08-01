@@ -6,7 +6,7 @@ My research focuses on **structures in machine learning and artificial agents** 
    <p style="margin-bottom:-7px"></p>
  + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for** efficient and general agents.
    <p style="margin-bottom:-7px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures of datasets **in** learning, analyzed via synthetic data.
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures of datasets **in** learning.
    <p style="margin-bottom:-7px"></p>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;"}
@@ -16,14 +16,14 @@ My research focuses on **structures in machine learning and artificial agents** 
 
 **I am on the 2023-2024 faculty job market.**
 
-In addition to working with great people here at MIT, my time is also spent on
-+ Frequent collaboration with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
+In addition to research at MIT, my time here is spent on
++ Collaboration outside MIT with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
   <p style="margin-bottom:-7px"></p>
-+ Developing MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
++ Developing MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and serving as the head TA.
   <p style="margin-bottom:-7px"></p>
 + **Pro bono office hours:** Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
   <p style="margin-bottom:-7px"></p>
-{: style="text-align: justify;padding-left:2em;margin-top:-0.8em;font-size:0.875em;"}
+{: style="text-align: justify;padding-left:1.2em;margin-top:-0.8em;font-size:0.875em;"}
 
 Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
 {: style="text-align: justify;"}
@@ -54,16 +54,16 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
 {: style="margin-bottom:-0.05em"}
 
-<table style="font-size:0.78em;letter-spacing:-0.03em;max-width:900px;">
+<table style="font-size:0.79em;letter-spacing:-0.03em;max-width:900px;">
     <tr>
-        <td style="padding-left:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:28%">
-            <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;margin-right:0.2em" aria-hidden="true"></i>Structure of representations
+        <td style="padding-left:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:31%">
+            <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;margin-right:0.25em" aria-hidden="true"></i>Structure of representations
         </td>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:39%">
-            <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;margin-right:0.2em" aria-hidden="true"></i>Structure for efficeint & general agents
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:35%">
+            <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;margin-right:0.25em" aria-hidden="true"></i>Structure for better agents
         </td>
-        <td style="padding-right:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:31%">
-            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.2em" aria-hidden="true"></i>Structure of dataset in learning
+        <td style="padding-right:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:32%">
+            <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.25em" aria-hidden="true"></i>Structure of dataset in learning
         </td>
     </tr>
 </table>
