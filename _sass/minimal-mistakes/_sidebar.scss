@@ -198,6 +198,11 @@
     display: block;
   }
 
+  .fa-fw {
+    font-size: 1.2em;
+    width: 1.45em;
+  }
+
   @include breakpoint($large) {
     display: block;
     position: relative;

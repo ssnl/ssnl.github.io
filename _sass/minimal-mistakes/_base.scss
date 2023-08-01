@@ -8,6 +8,14 @@ html {
   min-height: 100%;
 }
 
+.hide__mobile {
+  display: none !important;
+
+  @include breakpoint($medium) {
+    display: block !important;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;

@@ -96,7 +96,7 @@ html {
 
   /* paragraph indents */
   p {
-    font-size: 0.745em;
+    font-size: 0.79em;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
@@ -109,15 +109,15 @@ html {
   }
 
   li, dl {
-    font-size: 0.85em !important;
+    font-size: 0.9em !important;
     p {
-       font-size: 0.83em !important;
+       font-size: 0.9em !important;
     }
   }
 
 
   .small__tt {
-    font-size: 0.8em;
+    font-size: 0.85em;
     font-family: Monaco,Consolas, "Lucida Console", monospace;
   }
 

@@ -1,7 +1,6 @@
 I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
-My research is about **structures in machine learning and artificial agents** 
-(such as invariance, abstraction, geometry, distance, factorization, redundancy)
+My research focuses on **structures in machine learning and artificial agents** (invariance, abstraction, geometry, distance, factorization, redundancy, <em>etc.</em>)
 {: style="text-align: justify; margin-bottom:3px;letter-spacing:-0.015em"}
  + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **of** learned representations.
    <p style="margin-bottom:-7px"></p>
@@ -17,21 +16,18 @@ My research is about **structures in machine learning and artificial agents**
 
 **I am on the 2023-2024 faculty job market.**
 
-During my PhD, I have 
-+ Spent time at Meta AI working with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), and [Simon S. Du](https://simonshaoleidu.com/).
+In addition to working with great people here at MIT, my time is also spent on
++ Frequent collaboration with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
   <p style="margin-bottom:-7px"></p>
-+ Been collaborating with [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
++ Developing MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
   <p style="margin-bottom:-7px"></p>
-+ Helped develop MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and served as the head TA.
++ **Pro bono office hours:** Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
   <p style="margin-bottom:-7px"></p>
 {: style="text-align: justify;padding-left:2em;margin-top:-0.8em;font-size:0.875em;"}
 
-Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research with [Stuart  Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and image generative models.
+Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
 {: style="text-align: justify;"}
 
-**Pro bono office hour:** Inspired by Wei-Chiu Ma, I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
-
-**Click [here](./assets/docs/about/cv.pdf) for my CV.**
 
 ## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 1em;vertical-align:baseline"}</a>
 
@@ -55,21 +51,18 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) core te
     {: style="margin-bottom: -0.65em"}
 {: style="text-align: justify;padding-left:20px;list-style-type: circle;"}
 
-See below for open source code for my researches.
-{: style="font-size:0.75em;margin-bottom: -0.35em"}
-
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
-{: style="margin-bottom:0.05em"}
+{: style="margin-bottom:-0.05em"}
 
-<table style="font-size:0.72em;letter-spacing:-0.03em">
+<table style="font-size:0.78em;letter-spacing:-0.03em;max-width:900px;">
     <tr>
-        <td style="padding-left:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:32%">
+        <td style="padding-left:1%;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:28%">
             <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;margin-right:0.2em" aria-hidden="true"></i>Structure of representations
         </td>
-        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:38%">
+        <td style="padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:39%">
             <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;margin-right:0.2em" aria-hidden="true"></i>Structure for efficeint & general agents
         </td>
-        <td style="padding-right:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:33%">
+        <td style="padding-right:0.15em;padding-top:0.15em;padding-bottom:0.175em;border-bottom:1px solid #f2f3f3;width:31%">
             <i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px;margin-right:0.2em" aria-hidden="true"></i>Structure of dataset in learning
         </td>
     </tr>
@@ -77,10 +70,10 @@ See below for open source code for my researches.
 
 1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2023**{: .colorful}</span>][[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
     **Tongzhou Wang**, Antonio Torralba, Phillip Isola, Amy Zhang
-    {: style="margin-bottom: 0"}
+    {: style="margin-bottom:-0.35em"}
 
-    <div class="table-like" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:5px;padding: 0px;">
-        <table style="width: calc(100% );">
+    <div class="table-like hide__mobile" style="justify-content:space-evenly;max-width:100%;width:100%;margin:auto;margin-top:calc(0.35em + 5px);padding: 0px;">
+        <table style="max-width:750px;">
         <tr style="width: 100%;text-align: center;">
             <td style="font-size:1.25em;font-family:monospace;display: inline-block;text-align: center;width:35%;padding: 0px;border-bottom:0px">
             <img style="float: left; width: 100%;padding-bottom: 10px;" alt="paper thumbnail" src="./quasimetric_rl/assets/images/quasimetric_structure.png">
@@ -102,39 +95,47 @@ See below for open source code for my researches.
 
 2. **Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true" />)<br />[[<span class="small__tt">**NeurIPS 2022 NeurReps Workshop**{: .colorful}</span>](https://www.neurreps.org/)] [[Project Page](./interval_quasimetric_embedding){: .small__tt}] [[arXiv](https://arxiv.org/abs/2211.15120){: .small__tt}] [[PyTorch Package for Quasimetric Learning](https://github.com/quasimetric-learning/torch-quasimetric){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
-    {: style="margin-bottom: 0"}
+    {: style="margin-bottom:-0.35em"}
 
-    <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" style="width:97%;margin-top:2.5%">
+    <div>
+    <img src="./interval_quasimetric_embedding/images/iqe_compute_nobg.png" alt="computing-iqe" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.55em">
+    </div>
 
 3. **Denoised MDPs: Learning World Models Better Than The World** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2022**{: .colorful}</span>] [[Project Page](./denoised_mdp){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15477){: .small__tt}] [[code](https://github.com/facebookresearch/denoised_mdp){: .small__tt}] <br />
     **Tongzhou Wang**, Simon S. Du, Antonio Torralba, Phillip Isola, Amy Zhang, Yuandong Tian
-    {: style="margin-bottom: 0"}
+    {: style="margin-bottom:-0.35em"}
 
-    <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="width:100%">  </video>
+    <div>
+    <video src="https://user-images.githubusercontent.com/5674597/173155667-d4bcc7af-1f12-4ba3-a733-ef9d5f631c96.mp4" controls="controls" autoplay="true" loop="true" muted="muted" class="d-block rounded-bottom-2 border-top width-fit hide__mobile" style="max-width:900px;width:115%;margin-top:-0.85em;margin-bottom:-0.75em;margin-left:-5%;position:sticky;z-index:-1">  </video>
+    </div>
 
 4. **On the Learning and Learnability of Quasimetrics** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICLR 2022**{: .colorful}</span>] [[Project Page](/quasimetric){: .small__tt}] [[arXiv](https://arxiv.org/abs/2206.15478){: .small__tt}] [[OpenReview](https://openreview.net/forum?id=y0VvIg25yk){: .small__tt}] [[code](https://github.com/SsnL/poisson_quasimetric_embedding){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
-    {: style="margin-bottom: 0"}
+    {: style="margin-bottom:-0.35em"}
 
-    <img src="./quasimetric/images/function_spaces_cropped.png" alt="quasimetric-function-spaces" style="width:100%">
+    <div>
+    <img src="./quasimetric/images/function_spaces_cropped.png" alt="quasimetric-function-spaces" class="hide__mobile" style="max-width:750px;width:100%">
+    </div>
 
 5. **Learning to See by Looking at Noise** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true" />)<br />[<span class="small__tt">**NeurIPS 2021**{: .colorful}</span>] [[Project Page](https://mbaradad.github.io/learning_with_noise/){: .small__tt}] [[arXiv](https://arxiv.org/abs/2106.05963){: .small__tt}] [[code & datasets](https://github.com/mbaradad/learning_with_noise){: .small__tt}] <br />
     Manel Baradad\*, Jonas Wulff\*, **Tongzhou Wang**, Phillip Isola, Antonio Torralba
-    {: style="margin-bottom: 0"}
+    {: style="margin-bottom:-0.35em"}
 
-    <img src="https://mbaradad.github.io/learning_with_noise/images/teaser.jpeg" alt="learning-to-see-by-looking-at-noises" style="width:calc(100% - 10px)">
+    <div>
+    <img src="https://mbaradad.github.io/learning_with_noise/images/teaser.jpeg" alt="learning-to-see-by-looking-at-noises" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.35em">
+    </div>
 
 6. **<span style="letter-spacing:-0.25px">Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere</span>** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2020**{: .colorful}</span>] [[Project Page](/hypersphere){: .small__tt}] [[arXiv](https://arxiv.org/abs/2005.10242){: .small__tt}] [[code](https://github.com/SsnL/align_uniform){: .small__tt}] <br />
     **Tongzhou Wang**, Phillip Isola
+    {: style="margin-bottom:-0.35em"}
 
-    <div style="display: flex; width: 100%;margin-top: -0.5em">
-    <div style="width:100%; height: 260px; display:inline-table">
-        <span style="width:310px;border-bottom: 0px;padding:0px;vertical-align: bottom;text-align: left;display:inline-block">
+    <div class="hide__mobile" style="max-width:750px;width:100%">
+    <div style="width:100%; display:inline-flex;margin-top:0.2em">
+        <span style="width:40%;border-bottom: 0px;padding:0px;margin-right:2%;vertical-align: bottom;text-align: left;display:inline-block">
             <img style="max-width:100%;max-height:100%;" src="/assets/images/hypersphere_stl10_scatter_linear_output.png" alt="hypersphere_stl10_scatter_linear_output" />
         </span>
-        <span style="width:3.2%"></span>
-        <span style="width:calc(100% - 3% - 240px);border-bottom: 0px;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;display:contents;font-size:0.85em">
-            <div style="font-size: 0.735em;display: inline-block;text-align:left;padding-bottom:1.05em;max-width:100%;max-height:100%;align-self:flex-end" >
+        <span style="width:58%;border-bottom: 0px;padding-left:0px;padding-right:0px;text-align:right;vertical-align: bottom;font-size:75%">
+            <div style="font-size: 0.735em;display: inline-block;text-align:left;padding-bottom:1.05em;width:100%;max-height:100%;margin-top:3.5%" >
               <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em">
         <pre style="margin: 0; line-height: 160%">
 <span style="color: #888888"># bsz : batch size (number of positive pairs)</span>
@@ -156,18 +157,27 @@ See below for open source code for my researches.
 
 1. **Dataset Distillation** (<i class="fas fa-database" style="color:#32CD32;font-weight:bold;padding:1px" aria-hidden="true" />)<br />[[Project Page](/dataset_distillation){: .small__tt}] [[arXiv](https://arxiv.org/abs/1811.10959){: .small__tt}] [[code](https://github.com/SsnL/dataset-distillation){: .small__tt}]  [[DD Papers](https://github.com/Guang000/Awesome-Dataset-Distillation){: .small__tt}] <br />
     **Tongzhou Wang**, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
+    {: style="margin-bottom:-0.35em"}
 
-    ![dataset_distillation_fixed_mnist](/assets/images/dataset_distillation_fixed_mnist.png){: style="width:100%;"}
+    <div>
+    <img src="/assets/images/dataset_distillation_fixed_mnist.png" alt="dataset_distillation_fixed_mnist" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.3em">
+    </div>
 
 2. **Meta-Learning MCMC Proposals**<br />[<span class="small__tt">**NeurIPS 2018**{: .colorful}</span>] [<span class="small__tt">**PROBPROG 2018**{: .colorful}</span>] [[ICML 2017 AutoML Workshop Oral](./automl_17/slides.pdf){: .small__tt}] [[arXiv](https://arxiv.org/abs/1708.06040){: .small__tt}] <br />
     **Tongzhou Wang**, Yi Wu, David A. Moore, Stuart J. Russell
+    {: style="margin-bottom:-0.35em"}
 
-    ![meta_learning_mcmc_gmm_trace](/assets/images/meta_learning_mcmc_gmm_trace.png){: style="width:100%;"}
+    <div>
+    <img src="/assets/images/meta_learning_mcmc_gmm_trace.png" alt="meta_learning_mcmc_gmm_trace" class="hide__mobile" style="max-width:730px;width:100%;margin-top:0.55em">
+    </div>
 
 3. **Learning to Synthesize a 4D RGBD Light Field from a Single Image**<br />[<span class="small__tt">**ICCV 2017**{: .colorful}</span>] [[arXiv](https://arxiv.org/abs/1708.03292){: .small__tt}] <br />
     Pratul Srinivasan, **Tongzhou Wang**, Ashwin Sreelal, Ravi Ramamoorthi, Ren Ng
+    {: style="margin-bottom:-0.35em"}
 
-    ![light-field-synthesis-pipeline](/assets/images/2d_to_4d_pipeline.png){: style="width:100%;"}
+    <div>
+    <img src="/assets/images/2d_to_4d_pipeline.png" alt="light-field-synthesis-pipeline" class="hide__mobile" style="max-width:750px;width:100%;margin-top:0.35em">
+    </div>
 {: style="text-align: justify;padding-left:20px;list-style-type: square;"}
 
 <!--
