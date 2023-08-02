@@ -1,4 +1,4 @@
-I am a machine learning PhD student at [MIT CSAIL](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
+I am a machine learning PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
 My research focuses on **structures in machine learning and artificial agents** (invariance, abstraction, geometry, distance, factorization, redundancy, <em>etc.</em>)
 {: style="text-align: justify; margin-bottom:3px;letter-spacing:-0.015em"}
@@ -21,33 +21,35 @@ In addition to research, my time at MIT is spent on
   <p style="margin-bottom:-7px"></p>
 + Developing MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and serving as the head TA.
   <p style="margin-bottom:-7px"></p>
++ Open source machine learning projects (see below).<a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:baseline"}</a>
+  <p style="margin-bottom:-7px"></p>
 + **Pro bono office hours:** Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
   <p style="margin-bottom:-7px"></p>
 {: style="text-align: justify;padding-left:1.2em;margin-top:-0.8em;font-size:0.875em;"}
 
-Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Facebook AI Research (now Meta AI)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed my undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
+Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
 {: style="text-align: justify;"}
 
 
-## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20Stars){: style="height: 1em;vertical-align:baseline"}</a>
+## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20stars){: style="height: 1em;vertical-align:baseline"}</a>
 
 1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen){: style="height:1.3em"} 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red){: style="height:1.3em"} 2019; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social){: style="height:1.3em"}</a><br/>
-    Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc.
-   {: style="margin-bottom: -0.1em"}
-
-2. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social){: style="height:1.3em"}</a>
+    <span class="hide__mobile">Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc.</span>
     {: style="margin-bottom: -0.1em"}
 
-3. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019 - 2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social){: style="height:1.3em"}</a><br/>
-    One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).
+2. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social){: style="height:1.3em"}</a>
     {: style="margin-bottom: -0.1em"}
 
-4. **[`Awesome-Dataset-Distillation`](https://github.com/Guang000/Awesome-Dataset-Distillation) maintainer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/Guang000/Awesome-Dataset-Distillation">![GitHub Repo stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social){: style="height:1.3em"}</a><br/>
-    Collection of [Dataset Distillation](./dataset_distillation) papers in machine learning and vision conferences.
+3. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019-2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social){: style="height:1.3em"}</a><br/>
+    <span class="hide__mobile">One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).</span>
+    {: style="margin-bottom: -0.1em"}
+
+4. **[`Awesome-Dataset-Distillation`](https://github.com/Guang000/Awesome-Dataset-Distillation) maintainer (2022-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/Guang000/Awesome-Dataset-Distillation">![GitHub Repo stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social){: style="height:1.3em"}</a><br/>
+    <span class="hide__mobile">Collection of [Dataset Distillation](./dataset_distillation) papers in machine learning and vision conferences.</span>
     {: style="margin-bottom: 0em"}
 
-5. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022 - now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social){: style="height:1.3em"}</a><br/>
-    PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).
+5. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social){: style="height:1.3em"}</a><br/>
+    <span class="hide__mobile">PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).</span>
     {: style="margin-bottom: -0.65em"}
 {: style="text-align: justify;padding-left:20px;list-style-type: circle;"}
 
