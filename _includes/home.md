@@ -16,7 +16,7 @@ My research focuses on **structures in machine learning and artificial agents** 
 
 **I am on the 2023-2024 faculty job market.**
 
-In addition to research at MIT, my time here is spent on
+In addition to research, my time at MIT is spent on
 + Collaboration outside MIT with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/) and [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).
   <p style="margin-bottom:-7px"></p>
 + Developing MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and serving as the head TA.
