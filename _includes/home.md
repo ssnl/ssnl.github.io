@@ -19,27 +19,27 @@ My research focuses on **structures in machine learning and artificial agents** 
 In addition to research, my time at MIT is spent on
 + Collaboration outside MIT with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), and others.
   <p style="margin-bottom:-7px"></p>
-+ Developing MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course, and serving as the head TA.
++ **MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course**: Developing its first offering and serving as the head TA.
   <p style="margin-bottom:-7px"></p>
-+ Open source machine learning projects (see below).<a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:baseline"}</a>
++ <a style="margin-left:0px" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}</a> Open source machine learning projects (see below).
   <p style="margin-bottom:-7px"></p>
 + **Pro bono office hours:** Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
   <p style="margin-bottom:-7px"></p>
-{: style="text-align: justify;padding-left:1.2em;margin-top:-0.8em;font-size:0.875em;"}
+{: style="text-align: justify;padding-left:1.2em;margin-top:-0.8em;font-size:0.88em;"}
 
-Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I completed undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
+Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I finished undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
 {: style="text-align: justify;"}
 
 <details open>
 <summary>
 {% capture my_include %}
-## Selected Open Source Projects  <a style="margin-left:7px; vertical-align:middle" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20stars){: style="height: 1em;vertical-align:baseline"}</a>
-{: style="display:contents"}
+## Selected Open Source Projects  <a style="margin-left:7px" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20stars){: style="height: 1em;vertical-align:text-bottom"}</a>
+{: style="display:contents;margin-bottom:0.8em"}
 {% endcapture %}
 {{ my_include | markdownify }}
 </summary>
 {% capture my_include %}
-1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen){: style="height:1.3em"} 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red){: style="height:1.3em"} 2020; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social){: style="height:1.3em"}</a><br/>
+1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen){: style="height:1.2em;vertical-align:text-bottom"} 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red){: style="height:1.2em;vertical-align:text-bottom"} 2020; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social){: style="height:1.3em"}</a><br/>
     <span class="hide__mobile">Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc.</span>
     {: style="margin-bottom: -0.1em"}
 
@@ -57,14 +57,14 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
 5. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social){: style="height:1.3em"}</a><br/>
     <span class="hide__mobile">PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).</span>
     {: style="margin-bottom: -0.65em"}
-{: style="text-align: justify;padding-left:20px;list-style-type: circle;margin-bottom:40px"}
+{: style="text-align: justify;padding-left:20px;list-style-type: circle;margin-bottom:40px;margin-top:10px"}
 
 {% endcapture %}
 {{ my_include | markdownify }}
 </details>
 
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
-{: style="margin-bottom:-0.05em"}
+{: style="margin-bottom:0.1em"}
 
 
 <!-- 1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2023**{: .colorful}</span>][[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
