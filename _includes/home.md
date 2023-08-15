@@ -17,51 +17,18 @@ My research focuses on **structures in machine learning and artificial agents** 
 **I am on the 2023-2024 faculty job market.**
 
 In addition to research, my time at MIT is spent on
-+ Collaboration outside MIT with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), and others.
++ Collaboration outside MIT with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), and many others.
   <p style="margin-bottom:-7px"></p>
 + **MIT's [Deep Learning](https://phillipi.github.io/6.s898/) course**: Developing its first offering and serving as the head TA.
   <p style="margin-bottom:-7px"></p>
-+ <a style="margin-left:0px" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}</a> Open source machine learning projects (see below).
++ <a style="margin-left:0px" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}</a> **Open source machine learning projects** (see [here](/open_source/) for a short list).
   <p style="margin-bottom:-7px"></p>
 + **Pro bono office hours:** Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I commit 1-2 hours per week to provide suggestions and/or mentorships to students from underrepresented groups or whoever is in need. Fill out [this form](https://forms.gle/pvrLmmrMkqAhApCC6) if you are interested.
   <p style="margin-bottom:-7px"></p>
-{: style="text-align: justify;padding-left:1.2em;margin-top:-0.8em;font-size:0.88em;"}
+{: style="text-align: justify;padding-left:1.2em;margin-top:-0.9em;font-size:0.88em;"}
 
-Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). I finished undergradute study at UC Berkeley (2013-2017), where I started my research journey with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
+Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). My research journey started during undergradute years at UC Berkeley (2013-2017) with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
 {: style="text-align: justify;"}
-
-<details open>
-<summary>
-{% capture my_include %}
-## Selected Open Source Projects  <a style="margin-left:7px" href="https://github.com/ssnl">![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=%40ssnl%20stars){: style="height: 1em;vertical-align:text-bottom"}</a>
-{: style="display:contents;margin-bottom:0.8em"}
-{% endcapture %}
-{{ my_include | markdownify }}
-</summary>
-{% capture my_include %}
-1. **[PyTorch](https://pytorch.org/) core developer (![v020](https://img.shields.io/badge/ver.-0.2.0-yellowgreen){: style="height:1.2em;vertical-align:text-bottom"} 2017 - ![v100](https://img.shields.io/badge/ver.-1.0.0-red){: style="height:1.2em;vertical-align:text-bottom"} 2020; team size <10)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/pytorch/pytorch">![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social){: style="height:1.3em"}</a><br/>
-    <span class="hide__mobile">Data loading, CUDA/CPU kernels, ML ops, API design, autograd optimization, Python binding, etc.</span>
-    {: style="margin-bottom: -0.1em"}
-
-2. **[CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) maintainer (2018-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">![GitHub Repo stars](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=social){: style="height:1.3em"}</a>
-    {: style="margin-bottom: -0.1em"}
-
-3. **[`torchreparam`](https://github.com/ssnl/PyTorch-Reparam-Module) developer (2019-2020)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/ssnl/PyTorch-Reparam-Module">![GitHub Repo stars](https://img.shields.io/github/stars/ssnl/PyTorch-Reparam-Module?style=social){: style="height:1.3em"}</a><br/>
-    <span class="hide__mobile">One of the earliest PyTorch toolkits to **re-parametrize** neural nets (e.g., for hyper-nets and meta-learning).</span>
-    {: style="margin-bottom: -0.1em"}
-
-4. **[`Awesome-Dataset-Distillation`](https://github.com/Guang000/Awesome-Dataset-Distillation) maintainer (2022-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/Guang000/Awesome-Dataset-Distillation">![GitHub Repo stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social){: style="height:1.3em"}</a><br/>
-    <span class="hide__mobile">Collection of [Dataset Distillation](./dataset_distillation) papers in machine learning and vision conferences.</span>
-    {: style="margin-bottom: 0em"}
-
-5. **[`torchqmet`](https://github.com/quasimetric-learning/torch-quasimetric) developer (2022-now)** <a style="margin-left:5px;vertical-align:text-bottom" href="https://github.com/quasimetric-learning/torch-quasimetric">![GitHub Repo stars](https://img.shields.io/github/stars/quasimetric-learning/torch-quasimetric?style=social){: style="height:1.3em"}</a><br/>
-    <span class="hide__mobile">PyTorch toolkit for SOTA [quasimetric](./interval_quasimetric_embedding) [learning](./quasimetric).</span>
-    {: style="margin-bottom: -0.65em"}
-{: style="text-align: justify;padding-left:20px;list-style-type: circle;margin-bottom:40px;margin-top:10px"}
-
-{% endcapture %}
-{{ my_include | markdownify }}
-</details>
 
 ## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
 {: style="margin-bottom:0.1em"}

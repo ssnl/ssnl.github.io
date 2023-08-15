@@ -10,7 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "CV"
-    url: /assets/docs/about/cv.pdf
+  # - title: "CV"
+  #   url: /assets/docs/about/cv.pdf
+    - title: "About me"
+      uri: /
+    - title: "Open-Source"
+      uri: /open_source
   # - title: "Blog"
   #  url: /blog/
