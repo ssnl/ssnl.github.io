@@ -186,13 +186,15 @@
     a {
       display: block;
       margin: 0 1rem;
-      margin: 0 0.475rem;
+      margin: 0 0.48rem;
+      letter-spacing: -0.05em;
       padding: 0.1rem 0;
       color: $masthead-link-color;
       text-decoration: none;
 
       @include breakpoint($mobile) {
         margin: 0 1rem;
+        letter-spacing: 0em;
       }
 
       &:hover {
