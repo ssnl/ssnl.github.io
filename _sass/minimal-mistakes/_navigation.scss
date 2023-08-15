@@ -207,7 +207,7 @@
         font-size: 0.75em;
 
         @include breakpoint($mobile) {
-          font-size: 1em;
+          font-size: 0.9em;
         }
 
         @include breakpoint($large) {
@@ -241,7 +241,7 @@
 
 
       @include breakpoint($mobile) {
-        font-size: 1em;
+        font-size: 0.9em;
       }
 
       overflow: hidden;
