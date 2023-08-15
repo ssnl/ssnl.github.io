@@ -186,10 +186,14 @@
     a {
       display: block;
       margin: 0 1rem;
-      margin: 0 0.75rem;
+      margin: 0 0.475rem;
       padding: 0.1rem 0;
       color: $masthead-link-color;
       text-decoration: none;
+
+      @include breakpoint($mobile) {
+        margin: 0 1rem;
+      }
 
       &:hover {
         color: $masthead-link-color-hover;
@@ -243,19 +247,6 @@
       li {
         -webkit-box-flex: 0;
                     flex: none;
-        a {
-          margin: 0 7px;
-
-          @include breakpoint($mobile) {
-            margin: 0 10px;
-          }
-        }
-
-        &:first-child {
-          a {
-            margin-left: 7px;
-          }
-        }
 
         &:last-child {
           a {
