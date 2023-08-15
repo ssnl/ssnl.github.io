@@ -12,10 +12,20 @@ My research focuses on **structures in machine learning and artificial agents** 
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
+I frequently collaborate within and outside MIT, including [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc.
 {: style="text-align: justify"}
 
-**I am on the 2023-2024 faculty job market.**
+Outside research, I spend time on
+**developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/)**{: style="font-weight:600"},
+<a style="margin-left:0px" href="/open-source/">**open source machine learning projects**{: style="font-weight:600"} ![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}</a>,
+organizing <a href="https://goal-conditioned-rl.github.io/2023/">**a NeurIPS workshop on Goal-Conditional RL**{: style="font-weight:600"}</a>,
+mentoring <a href="https://sgi.mit.edu/">**SGI**{: style="font-weight:600"}</a> students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
+<a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"}</a>,
+and my cats.
 
+**I am on the 2023-2024 faculty job market.**{: style="font-size:1.05em"}
+
+<!--
 In addition to research, my time at MIT is spent on
 + Collaboration outside MIT with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), and many others.
   <p style="margin-bottom:-7px"></p>
@@ -28,10 +38,10 @@ In addition to research, my time at MIT is spent on
 {: style="text-align: justify;padding-left:1.2em;margin-top:-0.9em;font-size:0.88em;"}
 
 Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). My research journey started during undergradute years at UC Berkeley (2013-2017) with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
-{: style="text-align: justify;"}
+{: style="text-align: justify;"} -->
 
-## Selected Publications <span style="margin-left:6px;font-size:0.8em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
-{: style="margin-bottom:0.1em"}
+## Selected Publications <span style="margin-left:6px;font-size:0.85em">([full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
+{: style="margin-bottom:0.2em; font-size:1.1em"}
 
 
 <!-- 1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2023**{: .colorful}</span>][[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />

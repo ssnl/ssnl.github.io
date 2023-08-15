@@ -12,9 +12,11 @@ main:
   #   url: /sitemap/
   # - title: "CV"
   #   url: /assets/docs/about/cv.pdf
-    - title: "About me"
-      uri: /
-    - title: "Open-Source"
-      uri: /open_source
+  - title: "home"
+    url: /
+  - title: "open-source"
+    url: /open-source/
+  - title: "pro bono office hours"
+    url: /pro-bono-office-hours/
   # - title: "Blog"
   #  url: /blog/
