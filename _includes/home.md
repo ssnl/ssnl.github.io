@@ -17,11 +17,11 @@ I frequently collaborate within and outside MIT, including with [Yuandong Tian](
 
 Outside research, I spend time on
 **developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/)**{: style="font-weight:600"},
-<a style="margin-left:0px" href="/open-source/">**open source machine learning projects**{: style="font-weight:600"} ![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}</a>,
+<a style="margin-left:0px" href="/open-source/">**open source ML projects**{: style="font-weight:600"} ![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}</a>,
 organizing <a href="https://goal-conditioned-rl.github.io/2023/">**a NeurIPS workshop on Goal-Conditional RL**{: style="font-weight:600"}</a>,
 mentoring <a href="https://sgi.mit.edu/">**SGI**{: style="font-weight:600"}</a> students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
 <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"}</a>,
-and my cats.
+and my cats 😸😼.
 
 **I am on the 2023-2024 faculty job market.**{: style="font-size:1.05em"}
 
