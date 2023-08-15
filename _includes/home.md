@@ -21,7 +21,7 @@ Outside research, I spend time on
 organizing **a NeurIPS [workshop](https://goal-conditioned-rl.github.io/2023/) on Goal-Conditional RL**{: style="font-weight:600"},
 mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
 <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>,
-and my cats 😸😼.
+and with my cats 😸😼.
 
 **I am on the 2023-2024 faculty job market.**{: style="font-size:1.05em"}
 
