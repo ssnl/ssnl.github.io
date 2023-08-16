@@ -15,7 +15,7 @@ My research focuses on **structures in machine learning and artificial agents** 
 I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc.
 {: style="text-align: justify"}
 
-Outside research, I spend time on
+Outside research, I spend time
 **developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/)**{: style="font-weight:600"},
 **[open-source](/open-source/) ML projects**{: style="font-weight:600"} ![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"},
 organizing **a NeurIPS [workshop](https://goal-conditioned-rl.github.io/2023/) on Goal-Conditional RL**{: style="font-weight:600"},
