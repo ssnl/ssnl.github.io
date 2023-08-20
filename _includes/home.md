@@ -1,6 +1,6 @@
 I am a machine learning PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
-My research focuses on **structures in machine learning and artificial agents** (invariance, abstraction, geometry, distance, factorization, redundancy, <em>etc.</em>)
+**Research.**{: style="margin-right:1.1em"} I work on **structures in machine learning and artificial agents** (invariance, abstraction, geometry, distance, factorization, redundancy, <em>etc.</em>)
 {: style="text-align: justify; margin-bottom:3px;letter-spacing:-0.015em"}
  + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **of** learned representations.
    <p style="margin-bottom:-7px"></p>
@@ -15,7 +15,7 @@ My research focuses on **structures in machine learning and artificial agents** 
 I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc.
 {: style="text-align: justify"}
 
-Outside research, I spend time
+**Outside research,**{: style="margin-right:1.1em"} I spend time
 **developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/)**{: style="font-weight:600"},
 **[open-source](/open-source/) ML projects**{: style="font-weight:600"} ![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"},
 organizing **a NeurIPS [workshop](https://goal-conditioned-rl.github.io/2023/) on Goal-Conditional RL**{: style="font-weight:600"},
@@ -23,7 +23,7 @@ mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<
 <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>,
 and with my cats 😸😼.
 
-**I am on the 2023-2024 faculty job market.**{: style="font-size:1.05em"}
+**On 2023-2024 faculty job market:**{: style="font-size:1.05em;margin-right:1.1em"} YES ✅.
 
 <!--
 In addition to research, my time at MIT is spent on
