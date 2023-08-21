@@ -1,4 +1,4 @@
-**I am...**{: style="font-size:1.05em;margin-right:1.1em"} a machine learning PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
+**I am...**{: style="font-size:1.05em;margin-right:1.1em"} a final-year machine learning PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
 
 **Research.**{: style="font-size:1.05em;margin-right:1.1em"} I work on **structures in machine learning and artificial agents** (invariance, abstraction, geometry, distance, factorization, redundancy, <em>etc.</em>)
 {: style="text-align: justify; margin-bottom:3px;letter-spacing:-0.015em"}
@@ -25,7 +25,7 @@ and with 😸😼.
 
 **On 2023-2024 faculty job market:**{: style="font-size:1.05em;margin-right:1.1em"} YES ✅
 
-**Email**{: style="font-size:1.05em;margin-right:1.1em"} `tongzhou _DOT_ wang _DOT_ 1994 _AT_ gmail _DOT_ com`
+**Email:**{: style="font-size:1.05em;margin-right:1.1em"} `tongzhou _DOT_ wang _DOT_ 1994 _AT_ gmail _DOT_ com`
 {: style="color:gray"}
 
 <!--
