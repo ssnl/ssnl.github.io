@@ -1,19 +1,36 @@
-**I am...**{: style="font-size:1.05em;margin-right:1.1em"} a final-year machine learning PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/).
+**I am...**{: style="font-size:1.05em;margin-right:1.1em"} a final-year PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). I work on **machine learning**{: style="font-weight:600"}, **representation learning**{: style="font-weight:600"},  and **reinforcement learning**{: style="font-weight:600"}.
 
-**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I work on **structures in machine learning and artificial agents** (invariance, abstraction, geometry, distance, factorization, redundancy, <em>etc.</em>)
-{: style="text-align: justify; margin-bottom:3px;letter-spacing:-0.015em"}
- + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **of** learned representations.
-   <p style="margin-bottom:-7px"></p>
- + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for** efficient and general agents.
-   <p style="margin-bottom:-7px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures of datasets **in** learning, <span style="color:gray">which we analyze via structured <em>synthetic</em> data.<span>
-   <p style="margin-bottom:-0.9em"></p>
+<!-- **Research.**{: style="font-size:1.05em;margin-right:1.1em"}  **Intelligence via learned data structures.**
+{: style="text-align: justify;margin-bottom:0.35em"}
+
+My approach towards intelligence is to utilize certain structures of data <span style="color:gray">(<em>e.g.,</em> <u>invariances</u> to impercecptible changes, <u>distances</u> w.r.t. decision-making abilities, task-specific <u>factorizations</u> of signal and noise)</span>. These features enable better task-solving, learning efficiency and generalization, but have no known mathematical formulas.
+**How to characterize such structures?**{: style="font-weight:600"}&nbsp;
+**How to optimize neural networks to extract and represent them?**{: style="font-weight:600"}&nbsp;
+**How to use these <u>learned data structures</u> for better perception, decision-making, <em>etc</em>?**{: style="font-weight:600"}
+{: style="text-align: justify; margin-bottom:0.35em;letter-spacing:-0.015em"}
+ + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Data structures **as** learned representations.
+   <p style="margin-bottom:-4px"></p>
+ + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Data structures **for** efficient and general agents.
+   <p style="margin-bottom:-4px"></p>
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Dataset structures **of** the learning process, <span style="color:gray"><em>e.g.</em>, what makes for a good training set.</span> -->
+   <!--- <p style="margin-bottom:-0.9em"></p> --->
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
-{: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;"}
+<!-- {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;margin-bottom:0.35em"} -->
+
+**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I work on **structures in machine learning and artificial agents**, with a focus on <u>structures for more intelligent agents</u> <span style="color:gray">(<em>e.g.,</em> <u>invariances</u> to impercecptible changes, <u>distances</u> w.r.t. decision-making capabilities, task-specific <u>factorizations</u> of signal and noise)</span>, and <u>extracting and representing such *data structures* with neural nets</u>.
+{: style="text-align: justify; margin-bottom:0.52em;letter-spacing:-0.015em"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
-I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc.
-{: style="text-align: justify"}
+<!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
+Most of my works are related to these specific topics:
+{: style="text-align: justify; margin-bottom:0.24em"}
+ + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **as learned representations**.
+   <p style="margin-bottom:-5px"></p>
+ + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for efficient and general agents**.
+   <p style="margin-bottom:-5px"></p>
+ + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **of datasets in learning**, <span style="color:gray"><em>e.g.</em>, what makes for a good training set.</span>
+<!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
+{: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none"}
 
 **Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I spent my time on
 **developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/)**{: style="font-weight:600"},
