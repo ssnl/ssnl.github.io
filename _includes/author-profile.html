@@ -79,14 +79,6 @@
         </li>
       {% endif %}
 
-      {% if author.mastodon %}
-        <li>
-            <a rel="me" href="{{ author.mastodon }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-brands fa-mastodon" aria-hidden="true"></i> Mastodon
-          </a>
-       </li>
-      {% endif %}
-
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
