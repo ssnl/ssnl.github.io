@@ -17,18 +17,16 @@ My approach towards intelligence is to utilize certain structures of data <span 
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 <!-- {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;margin-bottom:0.35em"} -->
 
-**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in **structures in machine learning and artificial agents**, with a focus on <u>structures for more intelligent agents</u> <span style="color:gray">(<em>e.g.,</em> <u>invariances</u> to imperceptible changes, <u>distances</u> w.r.t. decision-making capabilities, task-specific <u>factorizations</u> of signal and noise)</span>, and <u>extracting and representing such *data structures* with neural nets</u>.
+**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in **structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> <u>invariances</u> to imperceptible changes, <u>distances</u> w.r.t. decision-making capabilities, task-specific <u>factorizations</u> of signal and noise)</span>.
 {: style="text-align: justify; margin-bottom:0.52em;letter-spacing:-0.015em"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
 Most of my works are related to these specific topics:
 {: style="text-align: justify; margin-bottom:0.24em"}
- + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **as learned representations**.
+ + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Learning fundamental structures for better AI systems
    <p style="margin-bottom:-5px"></p>
- + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **for efficient and general agents**.
-   <p style="margin-bottom:-5px"></p>
- + <i class="fas fa-database" style="color:#32CD32;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Structures **of datasets in learning**, <span style="color:gray"><em>e.g.</em>, what makes for a good training set.</span>
+ + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Discovering and analyzing useful structures, <span style="color:gray"><em>e.g.</em>, what makes for a good training set.</span>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none"}
 
