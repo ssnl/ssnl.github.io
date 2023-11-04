@@ -17,7 +17,7 @@ My approach towards intelligence is to utilize certain structures of data <span 
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 <!-- {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;margin-bottom:0.35em"} -->
 
-**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in **structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> <u>invariances</u> to imperceptible changes, <u>distances</u> w.r.t. decision-making capabilities, task-specific <u>factorizations</u> of signal and noise)</span>.
+**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in **structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> invariances to imperceptible changes, distances w.r.t. decision-making capabilities, task-specific factorizations of signal and noise)</span>.
 {: style="text-align: justify; margin-bottom:0.52em;letter-spacing:-0.015em"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
