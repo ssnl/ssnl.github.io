@@ -24,9 +24,9 @@ My approach towards intelligence is to utilize certain structures of data <span 
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
 Most of my works are related to these specific topics:
 {: style="text-align: justify; margin-bottom:0.24em"}
- + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Learning fundamental structures for better AI systems
+ + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Learning fundamental structures for better AI systems, <span style="color:gray">with theoretical guarantees and empirical benefits.</span>
    <p style="margin-bottom:-5px"></p>
- + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Discovering and analyzing useful structures, <span style="color:gray"><em>e.g.</em>, what makes for a good training set.</span>
+ + <i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Analyzing and discovering useful structures, <span style="color:gray"><em>e.g.</em>, what structure an algorithm learns, what makes for a good training set.</span>
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none"}
 
