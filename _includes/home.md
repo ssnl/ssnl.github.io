@@ -17,12 +17,13 @@ My approach towards intelligence is to utilize certain structures of data <span 
 <!---{: style="text-align: justify;padding-left:15px;margin-top:-1px;margin-bottom:10px;font-size:0.885em;list-style-type: none;"} --->
 <!-- {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;margin-bottom:0.35em"} -->
 
-**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in **inductive structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> invariances to imperceptible changes, distances w.r.t. decision-making capabilities, task-specific factorizations of signal and noise)</span>.
+**Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in the two intertwined paths towards **generalist agents**: (1) agents trained for multi-task (2) agents that can adaptively solve new tasks. My researches have shown that **inductive structures** in learned representations lead to efficient learning, generalist behavior, and quick adaptation in complex perceptual and decision-making problems
+<!-- **inductive structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> invariances to imperceptible changes, distances w.r.t. decision-making capabilities, task-specific factorizations of signal and noise)</span>. -->
 {: style="text-align: justify; margin-bottom:0.52em;letter-spacing:-0.015em"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
-Most of my works are related to these specific topics:
+Many of my works are related to these specific topics:
 {: style="text-align: justify; margin-bottom:0.24em"}
  + <i class="fas fa-robot" style="color:#DA70D6;font-weight:bold;width:2em;text-align:center;padding-right:5px" aria-hidden="true" />Learning fundamental structures for better AI systems, <span style="color:gray">with theoretical guarantees and empirical benefits.</span>
    <p style="margin-bottom:-5px"></p>
