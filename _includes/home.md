@@ -18,7 +18,7 @@ My approach towards intelligence is to utilize certain structures of data <span 
 <!-- {: style="text-align: justify;padding-left:10px;margin-top:-1px;font-size:0.875em;list-style-type: none;margin-bottom:0.35em"} -->
 
 **Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in the two intertwined paths towards **generalist agents**: (1) agents trained for multi-task (2) agents that can adaptively solve new tasks. 
-To enable such efficiency and generality, my research focuses on learning structured representations that aggregate and select information about the world from various data sources.
+To enable such efficiency and generality, my research learns structured representations that aggregate and select information about the world from various data sources.
 <!-- **inductive structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> invariances to imperceptible changes, distances w.r.t. decision-making capabilities, task-specific factorizations of signal and noise)</span>. -->
 {: style="text-align: justify; margin-bottom:0.52em;letter-spacing:-0.015em"}
 
