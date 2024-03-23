@@ -40,7 +40,7 @@ mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<
 <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>,
 and with 😸😼.
 
-**On 2023-2024 faculty job market:**{: style="font-size:1.05em;margin-right:1.1em"} YES ✅
+<!--- **On 2023-2024 faculty job market:**{: style="font-size:1.05em;margin-right:1.1em"} YES ✅ --->
 
 **Email:**{: style="font-size:1.05em;margin-right:1.1em"} `tongzhou _AT_ mit _DOT_ edu`
 {: style="color:gray"}
