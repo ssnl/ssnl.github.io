@@ -27,7 +27,7 @@ My research learns structured representations that aggregate and select informat
 
 **Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I spent my time on
 **developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/)**{: style="font-weight:600"}, writing
-**[![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/) [open-source](/open-source/) ML projects**{: style="font-weight:600"},
+**[open-source](/open-source/) ML projects [![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/)**{: style="font-weight:600"},
 organizing **a NeurIPS [workshop](https://goal-conditioned-rl.github.io/2023/) on Goal-Conditional RL**{: style="font-weight:600"},
 mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
 <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>, brewing coffee ☕, travelling, 
