@@ -25,12 +25,12 @@ My research learns structured representations that aggregate and select informat
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
 
-**Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I spend my time
-**developing 1st offering of MIT's [Deep Learning course](https://phillipi.github.io/6.s898/2022/index.html)**{: style="font-weight:600"}, writing
+**Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I worked on **building PyTorch** (version 0.2 to 1.2),
+**developing 1st offering of the [MIT Deep Learning course](https://phillipi.github.io/6.s898/2022/index.html)**{: style="font-weight:600"}, writing
 **[open-source](/open-source/) ML projects [![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/)**{: style="font-weight:600"},
 organizing **[a NeurIPS workshop](https://goal-conditioned-rl.github.io/2023/) on Goal-Conditional RL**{: style="font-weight:600"},
 mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
-<a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>, brewing coffee ☕, travelling, 
+holding <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>, brewing coffee ☕, travelling, 
 and with 😸😼.
 
 <!--- **On 2023-2024 faculty job market:**{: style="font-size:1.05em;margin-right:1.1em"} YES ✅ --->
