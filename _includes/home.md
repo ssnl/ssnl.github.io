@@ -54,7 +54,7 @@ Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at
 {: style="text-align: justify;"} -->
 
 ## Selected Publications <span style="margin-left:6px;font-size:0.83em;font-weight:normal">(* indicates equal contribution; [full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
-{: style="margin-bottom:0.2em; font-size:1.1em"}
+{: style="margin-bottom:0.15em; font-size:1.1em; border-bottom: 1px solid #b6b6b6"}
 
 
 <!-- 1. **Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning** (<i class="fab fa-connectdevelop" style="color:#00B7EB;font-weight:bold;padding-right:1px" aria-hidden="true" /><i class="fas fa-robot" style="color:#DA70D6;font-weight:bold" aria-hidden="true" />)<br />[<span class="small__tt">**ICML 2023**{: .colorful}</span>][[Project Page](./quasimetric_rl){: .small__tt}] [[arXiv](https://arxiv.org/abs/2304.01203){: .small__tt}] [<span>Code Coming Soon</span>{: .small__tt}] <br />
