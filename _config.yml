@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Tongzhou Wang"
   avatar           : "/assets/images/profile_ex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "finding repr. that fits reality"
   location         :
   email            :
   uri              :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SsnL"
+  github           : "ssnl"
   gitlab           :
   google_plus      :
   keybase          :
