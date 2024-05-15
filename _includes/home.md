@@ -52,7 +52,7 @@ In addition to research, my time at MIT is spent on
 Before MIT, I was an early member of the [PyTorch](https://pytorch.org/) team at [Meta AI (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) (2017-2019). My research journey started during undergradute years at UC Berkeley (2013-2017) with [Stuart Russell](http://people.eecs.berkeley.edu/~russell/){:.color}, [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html){:.color}, and [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/){:.color} on probabilistic inference, graphics, and generative models.
 {: style="text-align: justify;"} -->
 
-## Selected Publications <span style="margin-left:6px;font-size:0.83em;font-weight:normal">(* indicates equal contribution; [full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ))</span>
+## Selected Publications <span style="margin-left:6px;font-size:0.75em;font-weight:normal">*indicates equal contribution;<span style="margin-right:6px" /> [full list<i class="ai fa-fw ai-google-scholar-square" aria-hidden="true" />](https://scholar.google.com/citations?user=14HASnUAAAAJ)</span>
 {: style="margin-bottom:0.15em; font-size:1.1em; border-bottom: 1px solid #b6b6b6"}
 
 
