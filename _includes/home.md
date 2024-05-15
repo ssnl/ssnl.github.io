@@ -26,7 +26,7 @@ My research learns structured representations that aggregate and select informat
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
 
 **Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I worked on **building PyTorch** (ver. 0.2 to 1.2),
-**developing [MIT's Deep Learning course](https://phillipi.github.io/6.s898/2022/index.html)**{: style="font-weight:600"}, writing
+**developing [MIT's Deep Learning course](https://phillipi.github.io/6.s898/2022/index.html)**{: style="font-weight:600"}, coding
 **[open-source](/open-source/) projects [![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/)**{: style="font-weight:600"},
 mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
 holding <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>, brewing coffee ☕, travelling, 
