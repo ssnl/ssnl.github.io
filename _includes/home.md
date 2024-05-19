@@ -28,7 +28,7 @@ My research learns structured representations that aggregate and select informat
 **Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I worked on **building PyTorch** (ver. 0.2 to 1.2), developing 
 **[MIT's Deep Learning course](https://phillipi.github.io/6.s898/2022/index.html)**{: style="font-weight:600"}, coding
 **[open-source](/open-source/) projects [![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/)**{: style="font-weight:600"},
-mentoring **[SGI](https://sgi.mit.edu/)**{: style="font-weight:600"} students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
+mentoring SGI students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
 holding <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>, brewing coffee ☕, travelling, 
 and with 😸😼.
 
