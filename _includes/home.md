@@ -1,4 +1,4 @@
-**I am...**{: style="font-size:1.05em;margin-right:1.1em"} a final-year PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). I work on **learned representations, decision-making, and reasoning**{: style="font-weight:600"}.
+**I am...**{: style="font-size:1.05em;margin-right:1.1em"} an incoming member of technical staff at OpenAI. Currently, I am a final-year PhD student at [MIT](https://www.csail.mit.edu/) with [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). I work on **learned representations, decision-making, and reasoning**{: style="font-weight:600"}.
 
 <!-- **Research.**{: style="font-size:1.05em;margin-right:1.1em"}  **Intelligence via learned data structures.**
 {: style="text-align: justify;margin-bottom:0.35em"}
