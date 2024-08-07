@@ -1,5 +1,6 @@
-**I am...**{: style="font-size:1.05em;margin-right:1.1em"} an incoming member of technical staff at OpenAI. I obtained my PhD on *Intelligent Agents via Representation Learning* at [MIT](https://www.csail.mit.edu/), advised by [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). I work on **learned representations, decision-making, and reasoning**{: style="font-weight:600"}.
+**I am...**{: style="font-size:1.05em;margin-right:1.1em"} an incoming member of technical staff at OpenAI. I do machine learning research on **learned representations, decision-making, and reasoning**{: style="font-weight:600"}.
 
+**My PhD was...**{: style="font-size:1.05em;margin-right:1.1em"} on *Intelligent Agents via Representation Learning*. I completed my PhD at MIT, advised by [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/). 
 <!-- **Research.**{: style="font-size:1.05em;margin-right:1.1em"}  **Intelligence via learned data structures.**
 {: style="text-align: justify;margin-bottom:0.35em"}
 
