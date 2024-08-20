@@ -1,6 +1,6 @@
 **I am...**{: style="font-size:1.05em;margin-right:1.1em"} an incoming member of technical staff at OpenAI. I do machine learning research on **learned representations, decision-making, and reasoning**{: style="font-weight:600"}.
 
-**My PhD thesis was on**{: style="font-size:1.05em;margin-right:1.1em"} *Intelligent Agents via Representation Learning* ([pdf](./phd_thesis_Wang_Tongzhou_MIT.pdf), [defense](https://youtu.be/VznaaJh8Th8)), advised by [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) at MIT.
+**My PhD thesis was on**{: style="font-size:1.05em;margin-right:1.1em"} *Intelligent Agents via Representation Learning* ([pdf](./phd_thesis_Wang_Tongzhou_MIT.pdf), [video](https://youtu.be/VznaaJh8Th8)), advised by [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) at MIT.
 {: style="text-align: justify; margin-bottom:0.6em"}
 
 <!-- **Research.**{: style="font-size:1.05em;margin-right:1.1em"}  **Intelligence via learned data structures.**
