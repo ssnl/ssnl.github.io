@@ -1,7 +1,7 @@
 **I am...**{: style="font-size:1.05em;margin-right:1.1em"} an incoming member of technical staff at OpenAI. I do machine learning research on **learned representations, decision-making, and reasoning**{: style="font-weight:600"}.
 
-**My PhD thesis was on**{: style="font-size:1.05em;margin-right:1.1em"} *Intelligent Agents via Representation Learning* ([pdf](./phd_thesis_Wang_Tongzhou_MIT.pdf), [video](https://youtu.be/VznaaJh8Th8)), advised by [Antonio Torralba](https://web.mit.edu/torralba/www/) and [Phillip Isola](https://web.mit.edu/phillipi/) at MIT.
-{: style="text-align: justify; margin-bottom:0.6em"}
+**My PhD thesis was on**{: style="font-size:1.05em;margin-right:1.1em"} *Intelligent Agents via Representation Learning*{: style="font-weight:500"} ([pdf](./phd_thesis_Wang_Tongzhou_MIT.pdf), [video](https://youtu.be/VznaaJh8Th8)), advised by Antonio Torralba and Phillip Isola at MIT.
+{: style="text-align: justify; margin-bottom:0.5em"}
 
 <!-- **Research.**{: style="font-size:1.05em;margin-right:1.1em"}  **Intelligence via learned data structures.**
 {: style="text-align: justify;margin-bottom:0.35em"}
@@ -23,7 +23,7 @@ My approach towards intelligence is to utilize certain structures of data <span 
 **Research.**{: style="font-size:1.05em;margin-right:1.1em"} I am interested in the two intertwined paths towards **generalist agents**: (1) agents (pre)trained for multi-task (2) agents that can adaptively solve new tasks. I believe that representation is the key connection between learning and capabilities.
 <!-- My research learns structured representations that aggregate and select information about the world from various data sources, improving efficiency and generality of decision-making agents. -->
 <!-- **inductive structures in machine learning and artificial intelligence**, with a focus on <u>useful structures for better perception and decision-making</u> and <u>learning such structures with neural nets</u> <span style="color:gray">(<em>e.g.,</em> invariances to imperceptible changes, distances w.r.t. decision-making capabilities, task-specific factorizations of signal and noise)</span>. -->
-{: style="text-align: justify; margin-bottom:0.6em"}
+{: style="text-align: justify; margin-bottom:0.9em"}
 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
