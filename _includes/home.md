@@ -28,12 +28,8 @@ My approach towards intelligence is to utilize certain structures of data <span 
 <!---Broadly, I am interested in representation learning, reinforcement learning, synthetic data, and [dataset distillation](./dataset_distillation/).--->
 <!--- I frequently collaborate within and outside MIT, including with [Yuandong Tian](https://yuandong-tian.com/){:.color}, [Amy Zhang](https://amyzhang.github.io/), [Simon S. Du](https://simonshaoleidu.com/), [Alyosha Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), etc. --->
 
-**Outside research,**{: style="font-size:1.05em;margin-right:1.1em"} I spend time on **building PyTorch** (ver. 0.2 to 1.2), developing 
-**[MIT's Deep Learning course](https://phillipi.github.io/6.s898/2022/index.html)**{: style="font-weight:600"}, coding
-**[open-source](/open-source/) projects [![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/)**{: style="font-weight:600"},
-mentoring SGI students (<a href="https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/">blog</a>),
-holding <a style="margin-left:0px" href="/pro-bono-office-hours/">**pro bono office hours**{: style="font-weight:600"} (book me!)</a>, brewing coffee ☕, travelling, 
-and with 😸😼.
+**Misc.**{: style="font-size:1.05em;margin-right:1.1em"} I was a core PyTorch dev (ver. 0.2-1.2), coded some machine learning open-source projects [![GitHub User's stars](https://img.shields.io/github/stars/ssnl?affiliations=OWNER%2CCOLLABORATOR&logo=github&label=stars){: style="height: 1.1em;vertical-align:text-bottom"}](/open-source/), co-developed MIT's [*6.s898 Deep Learning*](https://phillipi.github.io/6.s898/2022/index.html),  and mentored [SGI](https://summergeometry.org/sgi2023/a-study-on-quasimetric-reinforcement-learning/) students. I host [pro bono office hours](./pro-bono-office-hours/) as much as I can. I love brewing coffee ☕, travelling, 
+and my 😸😼.
 
 <!--- **On 2023-2024 faculty job market:**{: style="font-size:1.05em;margin-right:1.1em"} YES ✅ --->
 
